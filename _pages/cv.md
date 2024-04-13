@@ -35,6 +35,8 @@ Education Background
 
 Professional Services
 =====
+* 2025 -
+  * Incoming Editor-in-Chief, *[Human Communication Research](https://academic.oup.com/hcr)* 
 * 2022 - 
   * Associate Editor, *[Journal of Communication](https://academic.oup.com/joc/pages/Editorial_Board)*
 * 2019 - 
