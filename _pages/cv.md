@@ -43,10 +43,14 @@ Professional Services
   * Editorial Board Member, *[Computational Communication Research](https://computationalcommunication.org/ccr/about/editorialTeam)*
 * 2019 - 
   * Editorial Board Member, *[Communication Methods and Measures](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=hcms20)*
+* 2019
+  * Guest Editor, *[Asian Journal of Communication](https://www.tandfonline.com/toc/rajc20/29/3)* 
 * 2018 - 
   * Editorial Board Member, *[Journal of Computer-Mediated Communication](https://academic.oup.com/jcmc/pages/Editorial_Board)*
 * 2018 - 
   * Editorial Board Member, *[Journal of Broadcasting & Electronic Media](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=hbem20)*
+* 2018
+  * Guest Editor, *[Communication Methods and Measures](https://www.tandfonline.com/toc/hcms20/12/2-3)* 
 * 2014 - 2018
   * Book Review Editor, *Asian Journal of Communication*
 * 2018, 2019, 2020
