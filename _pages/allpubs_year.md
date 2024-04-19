@@ -10,6 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
+0.  Heo, R., & Peng, T. Q. (in press). A revisit to the relationship between internet access and civic engagement: A multi-level analysis of between-country differences and within-country change. *International Journal of Communication*.
 0.  Lee, S., Cho, M. S., & Peng, T. Q. (2024). [Understanding Sentiment towards Racial Unrest through Temporal and Geographic Lenses: A Multilevel-Analysis across Metropolitan Areas in the United States](https://doi.org/10.3389/fcomm.2024.1259046). *Frontiers in Communication*.
 0.  Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
 0.  Zhang, Q., Liang, H., Peng, T. Q., & Zhu, J. J. H. (2023). [The effect of affordance on deliberation when retweeting: From the perspective of expression effect](https://doi.org/10.1016/j.chb.2023.108010). *Computers in Human Behavior*.
