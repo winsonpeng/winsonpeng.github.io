@@ -76,6 +76,7 @@ author_profile: true
 0. Peng, T. Q., & Zhu, J. J. H. (2012). Where You Publish Matters Most: A Multilevel Analysis of Factors Affecting Citations of Internet Studies. Journal of the American Society for Information Science and Technology, 63, 1789-1803. 
 
 ## Adoption, Use, and Impacts of Web 1.0
+0.  Heo, R., & Peng, T. Q. (in press). A revisit to the relationship between internet access and civic engagement: A multi-level analysis of between-country differences and within-country change. *International Journal of Communication*.
 0. Danowski, J., van Klyton, A., Peng, T. Q., Ma, S., Nkakleu, R., & Biboum, A. D. (2022). Information and communications technology development, interorganizational networks, and public sector corruption in Africa. Quality & Quantity.
 0. Zhu, Q. F., Skoric, M., & Peng, T. Q. (2018). Citizens’ use of the Internet and public service delivery: A longitudinal study of the first-level administrative divisions in China (1997-2014). International Journal of Public Administration in the Digital Age (IJPADA), 5(3), 32-42.
 0. Peng, T. Q., Zhu, J. J. H., Tong, J. J., & Jiang, S. J. (2012). Predicting Internet Nonusers’ Adoption Intention and Adoption Behavior:  A Panel Study of Theory of Planned Behavior. Information, Communication & Society, 15, 1236-1257. 
