@@ -10,7 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
-0.  Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (in press). [Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19](hppts://doi.org/10.1080/03637751.2024.2354252). *Communication Monographs*.
+0.  Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (in press). [Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19](https://doi.org/10.1080/03637751.2024.2354252). *Communication Monographs*.
 0.  Heo, R., & Peng, T. Q. (in press). A revisit to the relationship between internet access and civic engagement: A multi-level analysis of between-country differences and within-country change. *International Journal of Communication*.
 0.  Lee, S., Cho, M. S., & Peng, T. Q. (2024). [Understanding Sentiment towards Racial Unrest through Temporal and Geographic Lenses: A Multilevel-Analysis across Metropolitan Areas in the United States](https://doi.org/10.3389/fcomm.2024.1259046). *Frontiers in Communication*.
 0.  Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
