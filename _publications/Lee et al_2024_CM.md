@@ -5,8 +5,8 @@ permalink: /publication/Lee et al_2024_CM
 excerpt: ''
 date: 2024-05-30
 venue: 'Communication Monographs'
-paperurl: ''
-citation: 'Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (in press). Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19. <i>Communication Monographs</i>, https://doi.org/10.1080/03637751.2024.2354252
+paperurl: 'https://doi.org/10.1080/03637751.2024.2354252'
+citation: 'Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (in press). Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19. <i>Communication Monographs</i>'
 ---
 
 Abstract
