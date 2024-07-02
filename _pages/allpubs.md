@@ -15,6 +15,7 @@ author_profile: true
 0. Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. <i>e-Science Technology & Application, 5</i>(2), 3-13. [in Chinese]
 
 ## Public Agenda Dynamics
+0. Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias. *PLOS Climate*.
 0. Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). <i>Communication Research</i>.
 0. Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). Interplay between public attention and public emotion toward multiple social issues on Twitter. <i>PLoS ONE, 12</i>, e0167896.
 0. Qin, J., & Peng, T. Q. (2016). Googling Environmental Issues: Web Search Queries as a Measurement of Public Attention on Environmental Issues. <i>Internet Research, 26</i>, 57-73. 
@@ -31,8 +32,8 @@ author_profile: true
 0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, Evaluation, and Applications. Mobile Media & Communication, 6(2), 215-232.
 
 ## Production, Diffusion, and Consumption of Online Information
-0. Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (in press). Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19. *Communication Monographs*.
-0.  Zhang, Q., Liang, H., Peng, T. Q., & Zhu, J. J. H. (2023). [The effect of affordance on deliberation when retweeting: From the perspective of expression effect](https://doi.org/10.1016/j.chb.2023.108010). *Computers in Human Behavior*.
+0. Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (2024). [Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19](https://doi.org/10.1080/03637751.2024.2354252). *Communication Monographs*.
+0. Zhang, Q., Liang, H., Peng, T. Q., & Zhu, J. J. H. (2023). [The effect of affordance on deliberation when retweeting: From the perspective of expression effect](https://doi.org/10.1016/j.chb.2023.108010). *Computers in Human Behavior*.
 0. Yang, Y., Lin, C. A., Peng, T. Q., & Pierre, L. (2023). #MeToo: Intersecting gender, race, user identity, social judgment and social support. The Journal of Social Media in Society, 12(1), 348-370.
 0. Zhang, L., Li, Y. N., Peng, T. Q., & Wu, Y. (2022). Dynamics of the social construction of knowledge: An empirical study of Zhihu in China. EPJ Data Science, 11, 35.
 0. Zhang, L., Zheng, L., & Peng, T. Q. (2021). Examining familial role in mobile news consumption as a sequential process. Telematics and Informatics, 56, 101502.
@@ -56,6 +57,7 @@ author_profile: true
 0. Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress. <i>Communication Research, 43</i>, 996-1024.
 
 ## Public Health and Health Communication
+0.  Turner, M. M., Lim, J. I., Jang, Y., Heo, R. J., Ye, Q., Kim, M., Lapinski, M. K., & Peng, T. Q. (2024). [Do COVID-19 related primary emotions affect risk perceptions, efficacy beliefs, and information seeking and behavior? Examining emotions as audience segments](https://www.doi.org/10.3389/fcomm.2024.1378557). *Frontiers in Communication*.
 0.  Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
 0. Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (in press). The role of collective group orientation and social norms on physical distancing behaviors for disease prevention. Health Communication.
 0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759.
@@ -77,7 +79,7 @@ author_profile: true
 0. Peng, T. Q., & Zhu, J. J. H. (2012). Where You Publish Matters Most: A Multilevel Analysis of Factors Affecting Citations of Internet Studies. Journal of the American Society for Information Science and Technology, 63, 1789-1803. 
 
 ## Adoption, Use, and Impacts of Web 1.0
-0.  Heo, R., & Peng, T. Q. (in press). A revisit to the relationship between internet access and civic engagement: A multi-level analysis of between-country differences and within-country change. *International Journal of Communication*.
+0.  Heo, R., & Peng, T. Q. (2024). [Revisiting the Relationship Between Internet Access and Civic Engagement: A Multilevel Analysis of Between-Country Differences and Within-Country Change](https://ijoc.org/index.php/ijoc/article/view/21298). *International Journal of Communication*, 18, 3037-3059.
 0. Danowski, J., van Klyton, A., Peng, T. Q., Ma, S., Nkakleu, R., & Biboum, A. D. (2022). Information and communications technology development, interorganizational networks, and public sector corruption in Africa. Quality & Quantity.
 0. Zhu, Q. F., Skoric, M., & Peng, T. Q. (2018). Citizens’ use of the Internet and public service delivery: A longitudinal study of the first-level administrative divisions in China (1997-2014). International Journal of Public Administration in the Digital Age (IJPADA), 5(3), 32-42.
 0. Peng, T. Q., Zhu, J. J. H., Tong, J. J., & Jiang, S. J. (2012). Predicting Internet Nonusers’ Adoption Intention and Adoption Behavior:  A Panel Study of Theory of Planned Behavior. Information, Communication & Society, 15, 1236-1257. 
