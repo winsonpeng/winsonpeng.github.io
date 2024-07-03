@@ -10,7 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
-0.  Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias. *PLOS Climate*.
+0.  Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). [Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias](https://www.doi.org/10.1371/journal.pclm.0000429). *PLOS Climate*.
 0.  Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (2024). [Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19](https://doi.org/10.1080/03637751.2024.2354252). *Communication Monographs*.
 0.  Turner, M. M., Lim, J. I., Jang, Y., Heo, R. J., Ye, Q., Kim, M., Lapinski, M. K., & Peng, T. Q. (2024). [Do COVID-19 related primary emotions affect risk perceptions, efficacy beliefs, and information seeking and behavior? Examining emotions as audience segments](https://www.doi.org/10.3389/fcomm.2024.1378557). *Frontiers in Communication*.
 0.  Heo, R., & Peng, T. Q. (2024). [Revisiting the Relationship Between Internet Access and Civic Engagement: A Multilevel Analysis of Between-Country Differences and Within-Country Change](https://ijoc.org/index.php/ijoc/article/view/21298). *International Journal of Communication*, 18, 3037-3059.
