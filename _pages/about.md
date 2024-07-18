@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](https://comartsci.msu.edu/our-people/taiquan-winson-peng), Michigan State University.
+I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](https://comartsci.msu.edu/our-people/taiquan-winson-peng), Michigan State University. 
+
+I currently serve as an Associate Editor for the *[Journal of Communication](https://academic.oup.com/joc?login=false)* and am the incoming Editor-in-Chief for *[Human Communication Research](https://academic.oup.com/hcr?login=false)*, both of which are flagship journals in the field of communication research.
 
 My research interest includes computational social science, health communication, mobile analytics, and political communication. I am particularly interested in unraveling the structure & dynamics of human communication phenomena with various computational methods (e.g., network modeling, text mining, temporal and sequential modeling).
 
