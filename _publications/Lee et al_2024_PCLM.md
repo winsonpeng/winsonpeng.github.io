@@ -1,12 +1,12 @@
 ---
-title: "Can Large Language Models Capture Public Opinion about Global Warming? An Empirical Assessment of Algorithmic Fidelity and Bias"
+title: "Can Large Language Models Estimate Public Opinion about Global Warming? An Empirical Assessment of Algorithmic Fidelity and Bias"
 collection: publications
 permalink: /publication/Lee et al_2024_PCLM
 excerpt: ''
-date: 2024-07-10
+date: 2024-08-07
 venue: 'PLOS Climate'
 paperurl: 'https://www.doi.org/10.1371/journal.pclm.0000429'
-citation: 'Lee, S., Peng, T. Q., Goldberg, M. H., Rosenthal, S. A., Kotcher, J. E., Maibach, E. W., & Leiserowitz, A. (2024). Can large language models estimate public opinion about global warming? An empirical assessment of algorithmic fidelity and bias. <i>PLOS Climate</i>'
+citation: 'Lee, S., Peng, T. Q., Goldberg, M. H., Rosenthal, S. A., Kotcher, J. E., Maibach, E. W., & Leiserowitz, A. (2024). Can large language models estimate public opinion about global warming? An empirical assessment of algorithmic fidelity and bias. <i>PLOS Climate, 3</i>(8), e0000429.'
 ---
 
 Abstract
