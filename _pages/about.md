@@ -10,7 +10,7 @@ redirect_from:
 
 I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](https://comartsci.msu.edu/our-people/taiquan-winson-peng) at Michigan State University, USA. 
 
-Currently, I serve as the Editor-in-Chief of *[Human Communication Research](https://academic.oup.com/hcr)* (2025-). Previously, I was an Associate Editor for the *[Journal of Communication](https://academic.oup.com/joc)* (2022 - 2024). I have also co-edited special issues for *Communication Methods and Measures* ([2018](https://www.tandfonline.com/toc/hcms20/12/2-3)), *Asian Journal of Communication* ([2019](https://www.tandfonline.com/toc/rajc20/29/3)), and the *Journal of Communication* (ongoing). 
+Currently, I serve as the Editor-in-Chief of *[Human Communication Research](https://academic.oup.com/hcr)* (2025-). Previously, I was an Associate Editor for the *Journal of Communication* (2022 - 2024). I have also co-edited special issues for *Communication Methods and Measures* ([2018](https://www.tandfonline.com/toc/hcms20/12/2-3)), *Asian Journal of Communication* ([2019](https://www.tandfonline.com/toc/rajc20/29/3)), and the *Journal of Communication* (ongoing). 
 
 My research interest includes computational social science, health communication, audience analysis, and political communication. I am particularly interested in unraveling the structure & dynamics of human communication phenomena with various computational methods (e.g., network modeling, text mining, temporal and sequential modeling).
 
