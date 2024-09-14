@@ -32,7 +32,7 @@ author_profile: true
 0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, Evaluation, and Applications. Mobile Media & Communication, 6(2), 215-232.
 
 ## Production, Diffusion, and Consumption of Online Information
-0. Yin, J., Jia, H., Zhou, B., Tang, T., Ying, L., Ye, S., Peng, T. Q., & Wu, Y. C. (2025). Blowing seeds across gardens: Visualizing implicit propagation of cross-platform social media posts. *IEEE Transactions on Visualization and Computer Graphics*.
+0. Yin, J., Jia, H., Zhou, B., Tang, T., Ying, L., Ye, S., Peng, T. Q., & Wu, Y. C. (2025). [Blowing seeds across gardens: Visualizing implicit propagation of cross-platform social media posts](https://doi.org/10.1109/TVCG.2024.3456181). *IEEE Transactions on Visualization and Computer Graphics*.
 0. Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (2024). [Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19](https://doi.org/10.1080/03637751.2024.2354252). *Communication Monographs*.
 0. Zhang, Q., Liang, H., Peng, T. Q., & Zhu, J. J. H. (2023). [The effect of affordance on deliberation when retweeting: From the perspective of expression effect](https://doi.org/10.1016/j.chb.2023.108010). *Computers in Human Behavior*.
 0. Yang, Y., Lin, C. A., Peng, T. Q., & Pierre, L. (2023). #MeToo: Intersecting gender, race, user identity, social judgment and social support. The Journal of Social Media in Society, 12(1), 348-370.
