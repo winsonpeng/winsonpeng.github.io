@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Computational Communication as an Emerging Research Paradigm
+0. Peng, T. Q., & Zhu, J. J. H. (2025). Unpacking time in online behaviors: A temporal framework for computational social science. In: T. Yasseri (Ed.), *Handbook of Computational Social Science*. Edward Elgar Publishing Ltd.
 0. Chen, C. Y., Christoffels, A., Dube, R., Enos, K., Gilbert, J. E., Koyeji, S., Leigh, J., Liquido, C., McKee, A., Noe, K., Peng, T.-Q., & Taiuru, K. (2024). [Increasing the presence of BIPOC researchers in computational science](https://doi.org/10.1038/s43588-024-00693-6). *Nature Computational Science, 4*(9), 646–653. 
 0. Zhang, L, Peng, T. Q., Wang, C. J., Liang, H., & Zhu, J. J. H. (2021). A Natural Course from Marginality to Centrality: What we learned from the development of computational communication research in China. In Francis L. F. Lee, Yu Huang (Eds), <i>Inherit and Inspire: The Past, Present and Future of Chinese Communication Studies</i> (pp. 399-419). Hong Kong: Chinese University of Hong Kong Press. [in Chinese]
 0. Lee, S. U., & Peng, T. Q. (2021). Big Data, Analysis of. In Jan Van den Bulck (Ed), <i>The International Encyclopedia of Media Psychology</i>, Wiley-Blackwell.
