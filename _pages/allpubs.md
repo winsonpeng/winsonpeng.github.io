@@ -16,7 +16,7 @@ author_profile: true
 0. Van Atteveldt, W., & Peng, T. Q. (2018). When communication meets computation: Opportunities, challenges, and pitfalls in computational communication science. <i>Communication Methods and Measures, 12</i>(2-3), 81-92.
 0. Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. <i>e-Science Technology & Application, 5</i>(2), 3-13. [in Chinese]
 
-## Public Agenda Dynamics
+## Public Agenda Dynamics: Measurement and Modeling
 0.  Yang, K., Li, H., Wen, H., Peng, T.-Q., Tang, J., & Liu, H. (2024). [Are Large Language Models (LLMs) Good Social Predictors?](https://aclanthology.org/2024.findings-emnlp.153/) In Y. Al-Onaizan, M. Bansal, & Y.-N. Chen (Eds.), *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 2718–2730). Association for Computational Linguistics. 
 0. Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). [Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias](https://www.doi.org/10.1371/journal.pclm.0000429). *PLOS Climate*.
 0. Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). <i>Communication Research</i>.
