@@ -58,6 +58,11 @@ Professional Services
 * 2016 - 2017
   * Co-founder and Inaugural Chair, Computational Methods Interest Group, International Communication Association
 
+PhD Advisees as PhD Dissertation Committee Chair
+=====
+* Dr. [Sanguk Lee](https://scholar.google.com/citations?user=FVMBdAgAAAAJ&hl=en) (Current Position: Assistant Professor, Texas Christian University)
+* Dr. [Ruth Heo](https://irp.nida.nih.gov/staff-members/ruth-heo-ph-d/) (Current Position: Postdoctoral Fellow, National Institute on Drug Abuse)
+
 Affiliated Positions
 =====
 * September 2017 - 	
