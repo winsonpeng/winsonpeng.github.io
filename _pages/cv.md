@@ -39,12 +39,12 @@ Professional Services
   * Editor-in-Chief, *[Human Communication Research](https://academic.oup.com/hcr)* 
 * 2022 - 2024
   * Associate Editor, *[Journal of Communication](https://academic.oup.com/joc/pages/Editorial_Board)*
+* 2024
+  * Guest Editor, *[Journal of Communication](https://academic.oup.com/joc/)* 
 * 2019
   * Guest Editor, *[Asian Journal of Communication](https://www.tandfonline.com/toc/rajc20/29/3)* 
 * 2018
   * Guest Editor, *[Communication Methods and Measures](https://www.tandfonline.com/toc/hcms20/12/2-3)*
-* 2024
-  * Guest Editor, *[Journal of Communication](https://academic.oup.com/joc/)* 
 * 2019 - 
   * Editorial Board Member, *[Computational Communication Research](https://computationalcommunication.org/ccr/about/editorialTeam)*
 * 2019 - 
