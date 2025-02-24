@@ -10,7 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
-0. Zhu, Q. F., Peng, T. Q., & Zhang, X. Z. (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://doi.org/10.1080/03637751.2024.2354252). *The International Journal of Press/Politics*.
+0. Zhu, Q. F., Peng, T. Q., & Zhang, X. Z. (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://doi.org/10.1177/19401612251318838). *The International Journal of Press/Politics*.
 0. Zhu, J. J. H., Peng, T. Q., & Liang, H. (2025). Computational communication research: An early and active adopter of computational social science. *Chinese Journal of Sociology*.
 0. Yin, J., Jia, H., Zhou, B., Tang, T., Ying, L., Ye, S., Peng, T. Q., & Wu, Y. C. (2025). [Blowing seeds across gardens: Visualizing implicit propagation of cross-platform social media posts](https://www.doi.org/10.1109/TVCG.2024.3456181). *IEEE Transactions on Visualization and Computer Graphics*.
 0. Chen, C. Y., Christoffels, A., Dube, R., Enos, K., Gilbert, J. E., Koyeji, S., Leigh, J., Liquido, C., McKee, A., Noe, K., Peng, T. Q., & Taiuru, K. (2024). [Increasing the presence of BIPOC researchers in computational science](https://doi.org/10.1038/s43588-024-00693-6). *Nature Computational Science, 4*(9), 646–653. 
