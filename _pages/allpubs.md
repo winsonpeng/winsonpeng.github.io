@@ -26,15 +26,6 @@ author_profile: true
 0. Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual Analysis of Topic Coopetition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 20</i>, 1753-1762. 
 0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>, 2012-2021.
 
-## Audience Analysis
-0. Lee, S., & Peng, T. Q. (2023). Understanding audience behavior with digital traces: Past, present, and future. *Digital Journalism*.
-0. Xu, Y., & Peng, T. Q. (2023). Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022. <i>Human Communication Research</i>.
-0. Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? <i>Digital Journalism, 11</i>(1), 181-202. 
-0. Peng, T. Q., Zhou, Y., & Zhu, J. J. H. (2020). From filled to empty time intervals: Quantifying online behaviors with digital traces. Communication Methods and Measures, 14(4), 219-238.
-0. Peng, T. Q., & Zhu, J. J. H. (2020). Mobile phone use as sequential processes: From discrete behaviors to sessions of behaviors and trajectories of sessions. Journal of Computer-Mediated Communication, 25(2), 129-146.
-0. Lu, J. H., Xie, X., Lan, J., Peng, T. Q., Chen, W., & Wu, Y. C. (2019). BeXplorer: Visual analytics of dynamic interplay between behaviors in MMORPGs. Visual Informatics, 3, 87-101. 
-0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, Evaluation, and Applications. Mobile Media & Communication, 6(2), 215-232.
-
 ## Production, Diffusion, and Consumption of Online Information
 0. Zhu, Q. F., Peng, T. Q., & Zhang, X. Z. (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://doi.org/10.1177/19401612251318838). *The International Journal of Press/Politics*.
 0. Yin, J., Jia, H., Zhou, B., Tang, T., Ying, L., Ye, S., Peng, T. Q., & Wu, Y. C. (2025). [Blowing seeds across gardens: Visualizing implicit propagation of cross-platform social media posts](https://doi.org/10.1109/TVCG.2024.3456181). *IEEE Transactions on Visualization and Computer Graphics*.
@@ -51,7 +42,6 @@ author_profile: true
 0. Zhang, L., Peng, T. Q., Zhang, Y. P., Wang, X. H., & Zhu, J. J. H. (2014). Content or Context: Which Matters More in Information Processing on Microblogging Sites? Computers in Human Behavior, 31, 242-249.
 
 ## Connection and Communication on Social Media
-0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology. *PLOS Global Public Health*. 
 0. Lee, S., Cho, M. S., & Peng, T. Q. (2024). [Understanding Sentiment towards Racial Unrest through Temporal and Geographic Lenses: A Multilevel-Analysis across Metropolitan Areas in the United States](https://doi.org/10.3389/fcomm.2024.1259046). *Frontiers in Communication*.
 0. Tan, Y., Peng. T. Q., & Chiang, Y. S. (2022). The Facebook networking among political candidates and its outcomes: An empirical study of the 2016 legislative election in Taiwan. Journal of Information Society. [in Chinese]
 0. Robertson, C., Dutton, W., Ackland, R., & Peng, T. Q. (2019). The democratic role of social media in political debates: The use of Twitter in the first televised US presidential debate of 2016. <i>Journal of Information Technology & Politics,16</i>, 105-118. 
@@ -63,7 +53,17 @@ author_profile: true
 0. Wang, X. T., Liu, S. X., Chen, Y., Peng, T. Q., Su, J., Yang, J., & Guo, B. N. (2016). How Ideas Flow across Multiple Social Groups. Proceedings of the 2016 IEEE Visual Analytics Science and Technology (VAST 2016), Baltimore, Maryland. DOI: 10.1109/VAST.2016.7883511.
 0. Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress. <i>Communication Research, 43</i>, 996-1024.
 
+## Audience Analysis
+0. Lee, S., & Peng, T. Q. (2023). Understanding audience behavior with digital traces: Past, present, and future. *Digital Journalism*.
+0. Xu, Y., & Peng, T. Q. (2023). Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022. <i>Human Communication Research</i>.
+0. Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? <i>Digital Journalism, 11</i>(1), 181-202. 
+0. Peng, T. Q., Zhou, Y., & Zhu, J. J. H. (2020). From filled to empty time intervals: Quantifying online behaviors with digital traces. Communication Methods and Measures, 14(4), 219-238.
+0. Peng, T. Q., & Zhu, J. J. H. (2020). Mobile phone use as sequential processes: From discrete behaviors to sessions of behaviors and trajectories of sessions. Journal of Computer-Mediated Communication, 25(2), 129-146.
+0. Lu, J. H., Xie, X., Lan, J., Peng, T. Q., Chen, W., & Wu, Y. C. (2019). BeXplorer: Visual analytics of dynamic interplay between behaviors in MMORPGs. Visual Informatics, 3, 87-101. 
+0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, Evaluation, and Applications. Mobile Media & Communication, 6(2), 215-232.
+
 ## Public Health and Health Communication
+0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology. *PLOS Global Public Health*. 
 0. Turner, M. M., Lim, J. I., Jang, Y., Heo, R. J., Ye, Q., Kim, M., Lapinski, M. K., & Peng, T. Q. (2024). [Do COVID-19 related primary emotions affect risk perceptions, efficacy beliefs, and information seeking and behavior? Examining emotions as audience segments](https://www.doi.org/10.3389/fcomm.2024.1378557). *Frontiers in Communication*.
 0. Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
 0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759.
