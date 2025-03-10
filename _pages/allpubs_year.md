@@ -10,6 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
+0. Zhang, X. Z., Peng, T. Q. & Zhu, Q. F. (2025). Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness. *Journalism and Mass Communication Quarterly*.
 0. Zhu, Q. F., Peng, T. Q., & Zhang, X. Z. (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://doi.org/10.1177/19401612251318838). *The International Journal of Press/Politics*.
 0. Zhu, J. J. H., Peng, T. Q., & Liang, H. (2025). Computational communication research: An early and active adopter of computational social science. *Chinese Journal of Sociology*.
 0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology. *PLOS Global Public Health*. 
