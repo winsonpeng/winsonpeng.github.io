@@ -10,6 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
+0. Zhu, J. J. H., & Peng, T. Q. (2025). An ecological approach to debated questions in communication research: Issue competition, media convergence, and AI-generated content. *Communication and Change*.
 0. Zhang, X. Z., Peng, T. Q. & Zhu, Q. F. (2025). Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness. *Journalism and Mass Communication Quarterly*.
 0. Zhu, Q. F., Peng, T. Q., & Zhang, X. Z. (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://doi.org/10.1177/19401612251318838). *The International Journal of Press/Politics*.
 0. Zhu, J. J. H., Peng, T. Q., & Liang, H. (2025). Computational communication research: An early and active adopter of computational social science. *Chinese Journal of Sociology*.
