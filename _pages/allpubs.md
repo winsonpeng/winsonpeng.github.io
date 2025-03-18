@@ -17,9 +17,14 @@ author_profile: true
 0. Van Atteveldt, W., & Peng, T. Q. (2018). When communication meets computation: Opportunities, challenges, and pitfalls in computational communication science. <i>Communication Methods and Measures, 12</i>(2-3), 81-92.
 0. Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. <i>e-Science Technology & Application, 5</i>(2), 3-13. [in Chinese]
 
-## Public Agenda Dynamics: Measurement and Modeling
-0.  Yang, K., Li, H., Wen, H., Peng, T.-Q., Tang, J., & Liu, H. (2024). [Are Large Language Models (LLMs) Good Social Predictors?](https://aclanthology.org/2024.findings-emnlp.153/) In Y. Al-Onaizan, M. Bansal, & Y.-N. Chen (Eds.), *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 2718–2730). Association for Computational Linguistics. 
+
+## Large Language Models and Social Science
+0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions. *PLOS One*.
+0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology. *PLOS Global Public Health*. 
+0. Yang, K., Li, H., Wen, H., Peng, T.-Q., Tang, J., & Liu, H. (2024). [Are Large Language Models (LLMs) Good Social Predictors?](https://aclanthology.org/2024.findings-emnlp.153/) In Y. Al-Onaizan, M. Bansal, & Y.-N. Chen (Eds.), *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 2718–2730). Association for Computational Linguistics. 
 0. Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). [Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias](https://www.doi.org/10.1371/journal.pclm.0000429). *PLOS Climate*.
+
+## Public Agenda Dynamics: Measurement and Modeling
 0. Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). <i>Communication Research</i>.
 0. Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). Interplay between public attention and public emotion toward multiple social issues on Twitter. <i>PLoS ONE, 12</i>, e0167896.
 0. Qin, J., & Peng, T. Q. (2016). Googling Environmental Issues: Web Search Queries as a Measurement of Public Attention on Environmental Issues. <i>Internet Research, 26</i>, 57-73. 
@@ -64,7 +69,6 @@ author_profile: true
 0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, Evaluation, and Applications. Mobile Media & Communication, 6(2), 215-232.
 
 ## Public Health and Health Communication
-0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology. *PLOS Global Public Health*. 
 0. Turner, M. M., Lim, J. I., Jang, Y., Heo, R. J., Ye, Q., Kim, M., Lapinski, M. K., & Peng, T. Q. (2024). [Do COVID-19 related primary emotions affect risk perceptions, efficacy beliefs, and information seeking and behavior? Examining emotions as audience segments](https://www.doi.org/10.3389/fcomm.2024.1378557). *Frontiers in Communication*.
 0. Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
 0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759.
