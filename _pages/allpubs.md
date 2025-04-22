@@ -7,7 +7,7 @@ author_profile: true
 
 ## Large Language Models and Social Science
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions. *PLOS One*.
-0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology. *PLOS Global Public Health*. 
+0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://doi.org/10.1371/journal.pgph.0004383). *PLOS Global Public Health, 5*(4), e0004383. 
 0. Yang, K., Li, H., Wen, H., Peng, T.-Q., Tang, J., & Liu, H. (2024). [Are Large Language Models (LLMs) Good Social Predictors?](https://aclanthology.org/2024.findings-emnlp.153/) In Y. Al-Onaizan, M. Bansal, & Y.-N. Chen (Eds.), *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 2718–2730). Association for Computational Linguistics. 
 0. Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). [Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias](https://www.doi.org/10.1371/journal.pclm.0000429). *PLOS Climate*.
 
