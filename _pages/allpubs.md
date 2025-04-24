@@ -6,6 +6,9 @@ author_profile: true
 
 
 ## Large Language Models and Social Science
+0. Kang, T., Thorson, K., Peng, T.-Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2025). Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation (No. arXiv:2502.00903). arXiv. https://doi.org/10.48550/arXiv.2502.00903
+0. Yang, K., Li, H., Chu, Y., Lin, Y., Peng, T.-Q., & Liu, H. (2024). Unpacking Political Bias in Large Language Models: Insights Across Topic Polarization (No. arXiv:2412.16746). arXiv. https://doi.org/10.48550/arXiv.2412.16746
+0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. https://doi.org/10.48550/arXiv.2410.15442
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions. *PLOS One*.
 0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://doi.org/10.1371/journal.pgph.0004383). *PLOS Global Public Health, 5*(4), e0004383. 
 0. Yang, K., Li, H., Wen, H., Peng, T.-Q., Tang, J., & Liu, H. (2024). [Are Large Language Models (LLMs) Good Social Predictors?](https://aclanthology.org/2024.findings-emnlp.153/) In Y. Al-Onaizan, M. Bansal, & Y.-N. Chen (Eds.), *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 2718–2730). Association for Computational Linguistics. 
