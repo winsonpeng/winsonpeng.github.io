@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Articles
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions. *PLOS One*.
-0. Zhu, J. J. H., & Peng, T. Q. (2025). An ecological approach to debated questions in communication research: Issue competition, media convergence, and AI-generated content. *Communication and Change*.
+0. Zhu, J. J. H., & Peng, T. Q. (2025). [An ecological approach to debated questions in communication research: Issue competition, media convergence, and AI-generated content](https://doi.org/10.1007/s44382-025-00005-0). *Communication and Change*, 1, 2.
 0. Zhang, X. Z., Peng, T. Q., & Zhu, Q. F. (2025). Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness. *Journalism and Mass Communication Quarterly*.
 0. Zhu, Q. F., Peng, T. Q., & Zhang, X. Z. (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://doi.org/10.1177/19401612251318838). *The International Journal of Press/Politics*.
 0. Zhu, J. J. H., Peng, T. Q., & Liang, H. (2025). [Computational communication research: An early and active adopter of computational social science](https://doi.org/10.1177/2057150X251317548). *Chinese Journal of Sociology*.
