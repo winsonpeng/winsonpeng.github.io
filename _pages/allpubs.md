@@ -38,7 +38,7 @@ author_profile: true
 0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>, 2012-2021.
 
 ## Production, Diffusion, and Consumption of Online Information
-0. Zhang, X. Z., Peng, T. Q., & Zhu, Q. F. (2025). Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness. *Journalism and Mass Communication Quarterly*.
+0. Zhang, X. Z., Peng, T. Q., & Zhu, Q. F. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://doi.org/10.1177/10776990251334107). *Journalism and Mass Communication Quarterly*.
 0. Zhu, Q. F., Peng, T. Q., & Zhang, X. Z. (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://doi.org/10.1177/19401612251318838). *The International Journal of Press/Politics*.
 0. Yin, J., Jia, H., Zhou, B., Tang, T., Ying, L., Ye, S., Peng, T. Q., & Wu, Y. C. (2025). [Blowing seeds across gardens: Visualizing implicit propagation of cross-platform social media posts](https://doi.org/10.1109/TVCG.2024.3456181). *IEEE Transactions on Visualization and Computer Graphics*.
 0. Lee, S., Choung, H., Peng, T. Q., Lapinski, M. K., Jang, Y., & Turner, M. M. (2024). [Believe it or not: A network analysis investigating how individuals embrace false and true statements during COVID-19](https://doi.org/10.1080/03637751.2024.2354252). *Communication Monographs*.
