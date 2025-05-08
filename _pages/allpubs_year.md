@@ -10,6 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
+0. Lee, S., & Peng, T. Q. (2025). Bridging and bonding: The roles of brokerage and closure in mobilizing support provision in online support groups. *PLOS One*.
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). [Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions](https://www.doi.org/10.1371/journal.pone.0322078). *PLOS One, 20*(4), e0322078.
 0. Zhu, J. J. H., & Peng, T. Q. (2025). [An ecological approach to debated questions in communication research: Issue competition, media convergence, and AI-generated content](https://doi.org/10.1007/s44382-025-00005-0). *Communication and Change*, 1, 2.
 0. Zhang, X. Z., Peng, T. Q., & Zhu, Q. F. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://www.doi.org/10.1177/10776990251334107). *Journalism and Mass Communication Quarterly*.
