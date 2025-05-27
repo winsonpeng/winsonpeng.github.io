@@ -6,6 +6,8 @@ author_profile: true
 
 
 ## Large Language Models and Social Science
+0. Peng, T. Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. [https://doi.org/10.48550/arXiv.2505.19402](
+https://doi.org/10.48550/arXiv.2505.19402)
 0. Kang, T., Thorson, K., Peng, T.-Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2025). Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation (No. arXiv:2502.00903). arXiv. [https://doi.org/10.48550/arXiv.2502.00903](https://doi.org/10.48550/arXiv.2502.00903)
 0. Peng, T.-Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2025). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models (No. arXiv:2412.16746; Version 4). arXiv. [https://doi.org/10.48550/arXiv.2412.16746](https://doi.org/10.48550/arXiv.2412.16746)
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
