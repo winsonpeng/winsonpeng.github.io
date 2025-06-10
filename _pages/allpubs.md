@@ -33,7 +33,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 
 
 ## Public Agenda Dynamics: Measurement and Modeling
-0. Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). <i>Communication Research</i>.
+0. Peng, T. Q., & Zhu, J. J. H. (2024). [Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020)](https://doi.org/10.1177/00936502221125067). <i>Communication Research, 51</i>(8), 952-976.
 0. Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). Interplay between public attention and public emotion toward multiple social issues on Twitter. <i>PLoS ONE, 12</i>, e0167896.
 0. Qin, J., & Peng, T. Q. (2016). Googling Environmental Issues: Web Search Queries as a Measurement of Public Attention on Environmental Issues. <i>Internet Research, 26</i>, 57-73. 
 0. Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual Analysis of Topic Coopetition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 20</i>, 1753-1762. 
