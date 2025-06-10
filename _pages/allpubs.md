@@ -34,10 +34,10 @@ https://doi.org/10.48550/arXiv.2505.19402)
 
 ## Public Agenda Dynamics: Measurement and Modeling
 0. Peng, T. Q., & Zhu, J. J. H. (2024). [Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020)](https://doi.org/10.1177/00936502221125067). <i>Communication Research, 51</i>(8), 952-976.
-0. Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). Interplay between public attention and public emotion toward multiple social issues on Twitter. <i>PLoS ONE, 12</i>, e0167896.
-0. Qin, J., & Peng, T. Q. (2016). Googling Environmental Issues: Web Search Queries as a Measurement of Public Attention on Environmental Issues. <i>Internet Research, 26</i>, 57-73. 
-0. Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual Analysis of Topic Coopetition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 20</i>, 1753-1762. 
-0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>, 2012-2021.
+0. Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). [Interplay between public attention and public emotion toward multiple social issues on Twitter](https://doi.org/10.1371/journal.pone.0167896). <i>PLoS ONE, 12</i>(1), e0167896.
+0. Qin, J., & Peng, T. Q. (2016). [Googling Environmental Issues: Web Search Queries as a Measurement of Public Attention on Environmental Issues](https://doi.org/10.1108/IntR-04-2014-0104). <i>Internet Research, 26</i>(1), 57-73. 
+0. Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). [EvoRiver: Visual Analysis of Topic Coopetition on Social Media](https://www.doi.org/10.1109/TVCG.2014.2346919). <i>IEEE Transactions on Visualization and Computer Graphics, 20</i>(12), 1753-1762. 
+0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). [Visual Analysis of Topic Competition on Social Media](https://www.doi.org/10.1109/TVCG.2013.221). <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>(12), 2012-2021.
 
 ## Production, Diffusion, and Consumption of Online Information
 0. Zhang, X. Z., Peng, T. Q., & Zhu, Q. F. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://doi.org/10.1177/10776990251334107). *Journalism and Mass Communication Quarterly*.
