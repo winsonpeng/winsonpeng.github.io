@@ -69,28 +69,28 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0. Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress. <i>Communication Research, 43</i>, 996-1024.
 
 ## Audience Analysis
-0. Lee, S., & Peng, T. Q. (2023). Understanding audience behavior with digital traces: Past, present, and future. *Digital Journalism*.
-0. Xu, Y., & Peng, T. Q. (2023). Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022. <i>Human Communication Research</i>.
-0. Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? <i>Digital Journalism, 11</i>(1), 181-202. 
-0. Peng, T. Q., Zhou, Y., & Zhu, J. J. H. (2020). From filled to empty time intervals: Quantifying online behaviors with digital traces. Communication Methods and Measures, 14(4), 219-238.
-0. Peng, T. Q., & Zhu, J. J. H. (2020). Mobile phone use as sequential processes: From discrete behaviors to sessions of behaviors and trajectories of sessions. Journal of Computer-Mediated Communication, 25(2), 129-146.
-0. Lu, J. H., Xie, X., Lan, J., Peng, T. Q., Chen, W., & Wu, Y. C. (2019). BeXplorer: Visual analytics of dynamic interplay between behaviors in MMORPGs. Visual Informatics, 3, 87-101. 
-0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, Evaluation, and Applications. Mobile Media & Communication, 6(2), 215-232.
+0. Lee, S., & Peng, T. Q. (2024). [Understanding audience behavior with digital traces: Past, present, and future](https://doi.org/10.1080/21670811.2023.2254821). *Digital Journalism, 12*(8), 1140-1164.
+0. Xu, Y., & Peng, T. Q. (2024). [Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022](https://doi.org/10.1093/hcr/hqad028). <i>Human Communication Research, 50</i>(1), 14-26.
+0. Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). [Will time matter with cognitive load and retention in online news consumption?](https://doi.org/10.1080/21670811.2022.2164514) <i>Digital Journalism, 11</i>(1), 181-202. 
+0. Peng, T. Q., Zhou, Y., & Zhu, J. J. H. (2020). [From filled to empty time intervals: Quantifying online behaviors with digital traces](https://doi.org/10.1080/19312458.2020.1812556). *Communication Methods and Measures, 14*(4), 219-238.
+0. Peng, T. Q., & Zhu, J. J. H. (2020). [Mobile phone use as sequential processes: From discrete behaviors to sessions of behaviors and trajectories of sessions](https://doi.org/10.1093/jcmc/zmz029). *Journal of Computer-Mediated Communication, 25*(2), 129-146.
+0. Lu, J. H., Xie, X., Lan, J., Peng, T. Q., Chen, W., & Wu, Y. C. (2019). [BeXplorer: Visual analytics of dynamic interplay between behaviors in MMORPGs](https://doi.org/10.1016/j.visinf.2019.06.002). *Visual Informatics, 3*(2), 87-101. 
+0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). [How to measure sessions of mobile device use? Quantification, Evaluation, and Applications](https://doi.org/10.1177/2050157917748351). *Mobile Media & Communication, 6*(2), 215-232.
 
 ## Public Health and Health Communication
 0. Turner M. M., Jang Y., Heo R., Ye Q., Wade R., Lapinski M. K., & Peng, T. Q. (2025) [Mask wearing as a prosocial behavior: Proposing and testing the moral norms activation model](https://doi.org/10.1371/journal.pone.0322921). *PLoS One 20*(5), e0322921.
 0. Turner, M. M., Lim, J. I., Jang, Y., Heo, R. J., Ye, Q., Kim, M., Lapinski, M. K., & Peng, T. Q. (2024). [Do COVID-19 related primary emotions affect risk perceptions, efficacy beliefs, and information seeking and behavior? Examining emotions as audience segments](https://www.doi.org/10.3389/fcomm.2024.1378557). *Frontiers in Communication*.
 0. Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
-0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759.
-0. Chung, M., Jang, Y., Lapinski, M. Kerr, J., Zhao, J. H., Shupp, R., & Peng, T. Q. (2022). I do, therefore I think it is normal: The causal effects of behavior on descriptive norm formation and evolution. Social Influence, 17(1), 17-35.
-0. Anderson, J., Lapinski, M., Turner, M., Peng, T. Q., & Schmaelzle, R. (2022). Speaking of values: Value-expressive communication and exercise intentions. Health Communication, 37(10), 1285-1294.
-0. Lee, S., Peng, T. Q., Lapinski, M., Turner, M., Jang, Y., & Schaaf, A. (2021). Too stringent or too lenient: Antecedents and consequences of perceived stringency of COVID-19 policies in the United States. Health Policy OPEN, 2, 100047.
-0. Zhang, Y., Cao, B. L., Wang, Y. F., Peng, T. Q., & Wang, X. H. (2020). When public health research meets social media: Knowledge mapping from 2000 to 2018. Journal of Medical Internet Research, 22(8), e17582.
-0. Zhuang, J., Peng, T. Q., Tang, J. L., & Wu, Y. C. (2020). Mixed and blended emotional reactions to 2014 Ebola outbreak. Journal of Global Health, 10, 010304.
-0. Shi, J. Y., Wang, X. H., Peng, T. Q., & Chen, L. (2019). Cancer prevention messages on Chinese social media: A content analysis grounded in the extended parallel process model and attribution theory. International Journal of Communication, 13, 1959-1976.
-0. Guan, L., Peng, T. Q., & Zhu, J. J. H. (2019). Who is tracking health on mobile devices: Behavioral logfile analysis in Hong Kong. JMIR mHealth and uHealth, 7(5): e13679.
+0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. *International Journal of Environmental Research and Public Health, 19*(11), 6759.
+0. Chung, M., Jang, Y., Lapinski, M. Kerr, J., Zhao, J. H., Shupp, R., & Peng, T. Q. (2022). I do, therefore I think it is normal: The causal effects of behavior on descriptive norm formation and evolution. *Social Influence, 17*(1), 17-35.
+0. Anderson, J., Lapinski, M., Turner, M., Peng, T. Q., & Schmaelzle, R. (2022). Speaking of values: Value-expressive communication and exercise intentions. *Health Communication, 37*(10), 1285-1294.
+0. Lee, S., Peng, T. Q., Lapinski, M., Turner, M., Jang, Y., & Schaaf, A. (2021). Too stringent or too lenient: Antecedents and consequences of perceived stringency of COVID-19 policies in the United States. *Health Policy OPEN, 2*, 100047.
+0. Zhang, Y., Cao, B. L., Wang, Y. F., Peng, T. Q., & Wang, X. H. (2020). When public health research meets social media: Knowledge mapping from 2000 to 2018. *Journal of Medical Internet Research, 22*(8), e17582.
+0. Zhuang, J., Peng, T. Q., Tang, J. L., & Wu, Y. C. (2020). Mixed and blended emotional reactions to 2014 Ebola outbreak. *Journal of Global Health, 10*, 010304.
+0. Shi, J. Y., Wang, X. H., Peng, T. Q., & Chen, L. (2019). Cancer prevention messages on Chinese social media: A content analysis grounded in the extended parallel process model and attribution theory. *International Journal of Communication, 13*, 1959-1976.
+0. Guan, L., Peng, T. Q., & Zhu, J. J. H. (2019). Who is tracking health on mobile devices: Behavioral logfile analysis in Hong Kong. *JMIR mHealth and uHealth, 7*(5), e13679.
 0. Dearing, J. W., Kee, K. F., & Peng, T. Q. (2017). Historical roots of dissemination and implementation science. In R. C. Brownson, G. A. Colditz, & E. K. Proctor (eds.), Dissemination and implementation research in health: translating science to practice (2nd ed., pp. 47-61). New York, NY: Oxford University Press.
-0. Jiang, L. C., Wang, Z. Z., Peng, T. Q., & Zhu, J. J. H. (2015). The Divided Communities of Shared Concerns: Mapping the Intellectual Structure of e-Health Research in Social Science Journals. International Journal of Medical Informatics, 84, 24-35. 
+0. Jiang, L. C., Wang, Z. Z., Peng, T. Q., & Zhu, J. J. H. (2015). The Divided Communities of Shared Concerns: Mapping the Intellectual Structure of e-Health Research in Social Science Journals. *International Journal of Medical Informatics, 84*, 24-35. 
 
 ## Science of Science
 0. Wang, Y. F., Peng, T. Q., Lu, H. H., Wang, H. R., Xie, X., Qu, H. M., & Wu, Y. C. (2022). Seek for success: A visualization approach for understanding the dynamics of academic careers. IEEE Transactions on Visualization and Computer Graphics, 28(1), 475-485. 
