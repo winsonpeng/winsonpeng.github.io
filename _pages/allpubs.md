@@ -56,7 +56,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0. Zhang, L., Peng, T. Q., Zhang, Y. P., Wang, X. H., & Zhu, J. J. H. (2014). Content or Context: Which Matters More in Information Processing on Microblogging Sites? Computers in Human Behavior, 31, 242-249.
 
 ## Connection and Communication on Social Media
-0. Lee, S., & Peng, T. Q. (2025). Bridging and bonding: The roles of brokerage and closure in mobilizing support provision in online support groups. *PLOS One*.
+0. Lee, S., & Peng, T. Q. (2025). [Bridging and bonding: The roles of brokerage and closure in mobilizing support provision in online support groups](https://doi.org/10.1371/journal.pone.0325108). *PLoS One, 20*(6), e0325108.
 0. Lee, S., Cho, M. S., & Peng, T. Q. (2024). [Understanding Sentiment towards Racial Unrest through Temporal and Geographic Lenses: A Multilevel-Analysis across Metropolitan Areas in the United States](https://doi.org/10.3389/fcomm.2024.1259046). *Frontiers in Communication*.
 0. Tan, Y., Peng. T. Q., & Chiang, Y. S. (2022). The Facebook networking among political candidates and its outcomes: An empirical study of the 2016 legislative election in Taiwan. Journal of Information Society. [in Chinese]
 0. Robertson, C., Dutton, W., Ackland, R., & Peng, T. Q. (2019). The democratic role of social media in political debates: The use of Twitter in the first televised US presidential debate of 2016. <i>Journal of Information Technology & Politics,16</i>, 105-118. 
