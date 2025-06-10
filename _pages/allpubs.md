@@ -93,19 +93,19 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0. Jiang, L. C., Wang, Z. Z., Peng, T. Q., & Zhu, J. J. H. (2015). The Divided Communities of Shared Concerns: Mapping the Intellectual Structure of e-Health Research in Social Science Journals. *International Journal of Medical Informatics, 84*, 24-35. 
 
 ## Science of Science
-0. Wang, Y. F., Peng, T. Q., Lu, H. H., Wang, H. R., Xie, X., Qu, H. M., & Wu, Y. C. (2022). Seek for success: A visualization approach for understanding the dynamics of academic careers. IEEE Transactions on Visualization and Computer Graphics, 28(1), 475-485. 
-0. Peng, T. Q. (2015). Assortative Mixing, Preferential Attachment and Triadic Closure: A Longitudinal Study of Tie-Generative Mechanisms in Journal Citation Networks. Journal of Informetrics, 9, 250-262. 
-0. Peng, T. Q., & Wang, Z. Z. (2013). Network Closure, Brokerage, and Structural Influence of Journals: A Longitudinal Study of Journal Citation Network in Internet Research (2000-2010). Scientometrics, 97, 675-693. 
-0. Peng, T. Q., Zhang, L., Zhong, Z. J., & Zhu, J. J. H. (2013). Mapping the Landscape of Internet Studies: Text Mining of Social Science Journal Articles 2000-2009. New Media & Society, 15, 644-664. 
-0. Peng, T. Q., & Zhu, J. J. H. (2012). Where You Publish Matters Most: A Multilevel Analysis of Factors Affecting Citations of Internet Studies. Journal of the American Society for Information Science and Technology, 63, 1789-1803. 
+0. Wang, Y. F., Peng, T. Q., Lu, H. H., Wang, H. R., Xie, X., Qu, H. M., & Wu, Y. C. (2022). Seek for success: A visualization approach for understanding the dynamics of academic careers. *IEEE Transactions on Visualization and Computer Graphics, 28*(1), 475-485. 
+0. Peng, T. Q. (2015). Assortative Mixing, Preferential Attachment and Triadic Closure: A Longitudinal Study of Tie-Generative Mechanisms in Journal Citation Networks. *Journal of Informetrics, 9*, 250-262. 
+0. Peng, T. Q., & Wang, Z. Z. (2013). Network Closure, Brokerage, and Structural Influence of Journals: A Longitudinal Study of Journal Citation Network in Internet Research (2000-2010). *Scientometrics, 97*, 675-693. 
+0. Peng, T. Q., Zhang, L., Zhong, Z. J., & Zhu, J. J. H. (2013). Mapping the Landscape of Internet Studies: Text Mining of Social Science Journal Articles 2000-2009. *New Media & Society, 15*, 644-664. 
+0. Peng, T. Q., & Zhu, J. J. H. (2012). Where You Publish Matters Most: A Multilevel Analysis of Factors Affecting Citations of Internet Studies. *Journal of the American Society for Information Science and Technology, 63*, 1789-1803. 
 
 ## Adoption, Use, and Impacts of Web 1.0
 0.  Heo, R., & Peng, T. Q. (2024). [Revisiting the Relationship Between Internet Access and Civic Engagement: A Multilevel Analysis of Between-Country Differences and Within-Country Change](https://ijoc.org/index.php/ijoc/article/view/21298). *International Journal of Communication*, 18, 3037-3059.
-0. Danowski, J., van Klyton, A., Peng, T. Q., Ma, S., Nkakleu, R., & Biboum, A. D. (2022). Information and communications technology development, interorganizational networks, and public sector corruption in Africa. Quality & Quantity.
-0. Zhu, Q. F., Skoric, M., & Peng, T. Q. (2018). Citizens’ use of the Internet and public service delivery: A longitudinal study of the first-level administrative divisions in China (1997-2014). International Journal of Public Administration in the Digital Age (IJPADA), 5(3), 32-42.
-0. Peng, T. Q., Zhu, J. J. H., Tong, J. J., & Jiang, S. J. (2012). Predicting Internet Nonusers’ Adoption Intention and Adoption Behavior:  A Panel Study of Theory of Planned Behavior. Information, Communication & Society, 15, 1236-1257. 
-0. Peng, T. Q., & Zhu, J. J. H. (2011). A Game of Win-Win or Win-Lose? ---- A Revisit to the Internet’s Influence on Use of Traditional Media and Sociability. New Media & Society, 13, 568-586. 
-0. Peng, T. Q., & Zhu, J. J. H. (2011). Sophistication of Internet Usage (SIU) and Its Attitudinal Antecedents: An Empirical Study in Hong Kong. Computers in Human Behavior, 27, 421-431. 
-0. Peng, T. Q., & Zhu, J. J. H. (2010). Youth and the Internet in East Asia. Journal of Youth Studies, 13, 13-30.
-0. Peng, T. Q., & Zhu, J. J. H. (2008). Cohort Trends in Perceived Internet Influence on Political, Efficacy in Hong Kong. Cyberpsychology & Behavior, 11, 75-79.
+0. Danowski, J., van Klyton, A., Peng, T. Q., Ma, S., Nkakleu, R., & Biboum, A. D. (2022). Information and communications technology development, interorganizational networks, and public sector corruption in Africa. *Quality & Quantity*.
+0. Zhu, Q. F., Skoric, M., & Peng, T. Q. (2018). Citizens’ use of the Internet and public service delivery: A longitudinal study of the first-level administrative divisions in China (1997-2014). *International Journal of Public Administration in the Digital Age (IJPADA), 5*(3), 32-42.
+0. Peng, T. Q., Zhu, J. J. H., Tong, J. J., & Jiang, S. J. (2012). Predicting Internet Nonusers’ Adoption Intention and Adoption Behavior:  A Panel Study of Theory of Planned Behavior. *Information, Communication & Society, 15*, 1236-1257. 
+0. Peng, T. Q., & Zhu, J. J. H. (2011). A Game of Win-Win or Win-Lose? ---- A Revisit to the Internet’s Influence on Use of Traditional Media and Sociability. *New Media & Society, 13*, 568-586. 
+0. Peng, T. Q., & Zhu, J. J. H. (2011). Sophistication of Internet Usage (SIU) and Its Attitudinal Antecedents: An Empirical Study in Hong Kong. *Computers in Human Behavior, 27*, 421-431. 
+0. Peng, T. Q., & Zhu, J. J. H. (2010). Youth and the Internet in East Asia. *Journal of Youth Studies, 13*, 13-30.
+0. Peng, T. Q., & Zhu, J. J. H. (2008). [Cohort Trends in Perceived Internet Influence on Political, Efficacy in Hong Kong](https://doi.org/10.1089/cpb.2007.9931). *Cyberpsychology & Behavior, 11*(1), 75-79.
 
