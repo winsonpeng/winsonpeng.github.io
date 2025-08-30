@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Peng_HCR Editorial
 excerpt: ''
 date: 2025-09-01
-venue: 'HCR'
-paperurl: 'https://doi.org/10.48550/arXiv.2412.16746'
+venue: 'Human Communication Research'
+paperurl: 'https://doi.org/10.1093/hcr/hqaf021'
 citation: 'Peng, T. Q. (2025). Human Communication Research at a Crossroads: reaffirming standards, reimagining possibilities. *Human Communication Research*. https://doi.org/10.1093/hcr/hqaf021'
 ---
 
