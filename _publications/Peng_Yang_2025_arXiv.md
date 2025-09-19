@@ -5,9 +5,8 @@ permalink: /publication/Peng_Yang_2025_arXiv
 excerpt: ''
 date: 2025-05-27
 venue: 'arXiv.org'
-paperurl: '
-https://doi.org/10.48550/arXiv.2505.19402'
-citation: 'Peng, T.-Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. https://doi.org/10.48550/arXiv.2505.19402'
+paperurl: 'https://doi.org/10.48550/arXiv.2505.19402'
+citation: 'Peng, T.-Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv.'
 ---
 
 Abstract
