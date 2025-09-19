@@ -6,7 +6,7 @@ excerpt: ''
 date: 2025-05-10
 venue: 'arXiv.org'
 paperurl: 'https://doi.org/10.48550/arXiv.2412.16746'
-citation: 'Peng, T.-Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2025). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models (No. arXiv:2412.16746; Version 4). arXiv. https://doi.org/10.48550/arXiv.2412.16746'
+citation: 'Peng, T.-Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2025). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models (No. arXiv:2412.16746; Version 4). arXiv.'
 ---
 
 Abstract
