@@ -6,7 +6,7 @@ excerpt: ''
 date: 2025-09-01
 venue: 'Human Communication Research'
 paperurl: 'https://doi.org/10.1093/hcr/hqaf021'
-citation: 'Peng, T. Q. (2025). <i>Human Communication Research</i> at a crossroads: reaffirming standards, reimagining possibilities. <i>Human Communication Research</i>. https://doi.org/10.1093/hcr/hqaf021'
+citation: 'Peng, T. Q. (2025). <i>Human Communication Research</i> at a crossroads: reaffirming standards, reimagining possibilities. <i>Human Communication Research</i>.'
 ---
 
 Abstract
