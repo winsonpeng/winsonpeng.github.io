@@ -94,6 +94,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0. Jiang, L. C., Wang, Z. Z., Peng, T. Q., & Zhu, J. J. H. (2015). The Divided Communities of Shared Concerns: Mapping the Intellectual Structure of e-Health Research in Social Science Journals. *International Journal of Medical Informatics, 84*, 24-35. 
 
 ## Science of Science
+0. Peng, T. Q. (2025). [Human Communication Research at a crossroads: reaffirming standards, reimagining possibilities](https://doi.org/10.1093/hcr/hqaf021). *Human Communication Research*.
 0. Wang, Y. F., Peng, T. Q., Lu, H. H., Wang, H. R., Xie, X., Qu, H. M., & Wu, Y. C. (2022). Seek for success: A visualization approach for understanding the dynamics of academic careers. *IEEE Transactions on Visualization and Computer Graphics, 28*(1), 475-485. 
 0. Peng, T. Q. (2015). Assortative Mixing, Preferential Attachment and Triadic Closure: A Longitudinal Study of Tie-Generative Mechanisms in Journal Citation Networks. *Journal of Informetrics, 9*, 250-262. 
 0. Peng, T. Q., & Wang, Z. Z. (2013). Network Closure, Brokerage, and Structural Influence of Journals: A Longitudinal Study of Journal Citation Network in Internet Research (2000-2010). *Scientometrics, 97*, 675-693. 
