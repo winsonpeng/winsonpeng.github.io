@@ -18,6 +18,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 
 ## Journal Articles
 0. Li, R., Ye, S., Lin, Y., Zhou, B., Kang, Z., Peng, T. Q., Fu, W., Tang, T., & Wu, Y. (2026). Causality-based visual analytics of sentiment contagion in social media topics. *IEEE Transactions on Visualization and Computer Graphics*.
+0. Peng, T. Q. (2025). [Human Communication Research at a crossroads: reaffirming standards, reimagining possibilities](https://doi.org/10.1093/hcr/hqaf021). *Human Communication Research*. 
 0. Lee, S., & Peng, T. Q. (2025). [Bridging and bonding: The roles of brokerage and closure in mobilizing support provision in online support groups](https://doi.org/10.1371/journal.pone.0325108). *PLoS One, 20*(6), e0325108.
 0. Turner M. M., Jang Y., Heo R., Ye Q., Wade R., Lapinski M. K., & Peng, T. Q. (2025) [Mask wearing as a prosocial behavior: Proposing and testing the moral norms activation model](https://doi.org/10.1371/journal.pone.0322921). *PLoS One, 20*(5), e0322921.
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). [Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions](https://www.doi.org/10.1371/journal.pone.0322078). *PLoS One, 20*(4), e0322078.
