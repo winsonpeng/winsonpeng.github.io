@@ -80,6 +80,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). [How to measure sessions of mobile device use? Quantification, Evaluation, and Applications](https://doi.org/10.1177/2050157917748351). *Mobile Media & Communication, 6*(2), 215-232.
 
 ## Public Health and Health Communication
+0. Sheng, R., Wang, Y., Wang, X., Guo, Q., Dai, S., Peng T. Q., Qu, H., & Liu, D. (2026). EMINDS: Understanding user behavior progression for mental health exploration on social media. *IEEE Transactions on Visualization and Computer Graphics*.
 0. Turner M. M., Jang Y., Heo R., Ye Q., Wade R., Lapinski M. K., & Peng, T. Q. (2025) [Mask wearing as a prosocial behavior: Proposing and testing the moral norms activation model](https://doi.org/10.1371/journal.pone.0322921). *PLoS One 20*(5), e0322921.
 0. Turner, M. M., Lim, J. I., Jang, Y., Heo, R. J., Ye, Q., Kim, M., Lapinski, M. K., & Peng, T. Q. (2024). [Do COVID-19 related primary emotions affect risk perceptions, efficacy beliefs, and information seeking and behavior? Examining emotions as audience segments](https://www.doi.org/10.3389/fcomm.2024.1378557). *Frontiers in Communication*.
 0. Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
