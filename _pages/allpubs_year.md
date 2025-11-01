@@ -18,6 +18,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
 
 ## Journal Articles
+0. Sheng, R., Wang, Y., Wang, X., Guo, Q., Dai, S., Peng T. Q., Qu, H., & Liu, D. (2026). EMINDS: Understanding user behavior progression for mental health exploration on social media. *IEEE Transactions on Visualization and Computer Graphics*.
 0. Li, R., Ye, S., Lin, Y., Zhou, B., Kang, Z., Peng, T. Q., Fu, W., Tang, T., & Wu, Y. (2026). Causality-based visual analytics of sentiment contagion in social media topics. *IEEE Transactions on Visualization and Computer Graphics*.
 0. Peng, T. Q. (2025). [Human Communication Research at a crossroads: reaffirming standards, reimagining possibilities](https://doi.org/10.1093/hcr/hqaf021). *Human Communication Research*. 
 0. Lee, S., & Peng, T. Q. (2025). [Bridging and bonding: The roles of brokerage and closure in mobilizing support provision in online support groups](https://doi.org/10.1371/journal.pone.0325108). *PLoS One, 20*(6), e0325108.
