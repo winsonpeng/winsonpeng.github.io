@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Edited Volumes
+0. Peng, T. Q., & Wang, Z. (2026) (Eds.). Time in communication research and theories. *Journal of Communication*.
 0.	Peng, T. Q., Liang, H., & Zhu, J. J. H. (2019) (Eds.). Introducing computational social science for Asia-Pacific communication research. *Asian Journal of Communication, 9*(3).
 0.	van Atteveldt, W., & Peng, T. Q. (2018) (Eds.). Computational methods for communication science. *Communication Methods and Measures, 12*(2-3).
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
