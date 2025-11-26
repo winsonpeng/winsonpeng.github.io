@@ -19,7 +19,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
 
 ## Journal Articles
-0. Sheng, R., Wang, Y., Wang, X., Guo, Q., Dai, S., Peng T. Q., Qu, H., & Liu, D. (2026). EMINDS: Understanding user behavior progression for mental health exploration on social media. *IEEE Transactions on Visualization and Computer Graphics*.
+0. Sheng, R., Wang, Y., Wang, X., Guo, Q., Dai, S., Peng T. Q., Qu, H., & Liu, D. (2026). [EMINDS: Understanding user behavior progression for mental health exploration on social media](https://doi.org/10.1109/TVCG.2025.3630646). *IEEE Transactions on Visualization and Computer Graphics*.
 0. Oh, Y. J., Rasul, M. E., Lim, J. I., Calabrese, C., McKinley, E., Stevens, H., Turner, M. M., Lapinski, M. K., & Peng, T. Q. (in press). Targeting anger for COVID-19 prevention: The motivating role of anger on media use and vaccination intention. *PLoS ONE*. 
 0. Li, R., Ye, S., Lin, Y., Zhou, B., Kang, Z., Peng, T. Q., Fu, W., Tang, T., & Wu, Y. (2026). Causality-based visual analytics of sentiment contagion in social media topics. *IEEE Transactions on Visualization and Computer Graphics*.
 0. Peng, T. Q. (2025). [Human Communication Research at a crossroads: reaffirming standards, reimagining possibilities](https://doi.org/10.1093/hcr/hqaf021). *Human Communication Research*. 
