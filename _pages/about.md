@@ -13,7 +13,7 @@ I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](ht
 
 Over the course of my career, I have examined how different waves of communication technologies—starting with the internet and extending through social and mobile media to contemporary AI systems—change the ways people encounter information, form judgments, and engage with one another. Across these transitions, my work focuses on how evolving communication environments shape, and are shaped by, fundamental processes of attention, interpretation, and influence.
 
-![Research Trajectory](/assets/images/myresearchtrajectory.png)
+![Research Trajectory](/assets/images/MyResearchTrajectory.png)
 
 A consistent theme in my scholarship is that emerging technologies do more than transform communication practices: they also offer new windows into human cognition and behavior. By engaging each technological shift as both an object of inquiry and a source of analytic innovation, I connect enduring and emerging theoretical questions in communication with the empirical possibilities opened by new forms of data, interaction, and representation. This approach has guided my work across areas such as computational social science, health communication, audience behavior, and political communication.
 
