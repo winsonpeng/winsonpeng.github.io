@@ -15,11 +15,11 @@ Over the course of my career, I have examined how different waves of communicati
 
 <table style="border:none;">
 <tr style="border:none;">
-<td width="0%" valign="top" style="border:none; font-size:28px;">
+<td width="1%" valign="top" style="border:none; font-size:28px;">
 
 
 </td>
-<td width="100%" valign="top" style="border:none;">
+<td width="99%" valign="top" style="border:none;">
 
 <a href="/assets/images/MyResearchTrajectory.png">
   <img src="/assets/images/MyResearchTrajectory.png" width="100%" alt="Winson Peng Research Trajectory">
