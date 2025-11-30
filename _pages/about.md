@@ -17,7 +17,6 @@ Over the course of my career, I have examined how different waves of communicati
     <img src="/assets/images/MyResearchTrajectory.png" width="300">
   </a>
 </p>
-
 <p align="center"><em>(Click the image to view full size.)</em></p>
 
 A consistent theme in my scholarship is that emerging technologies do more than transform communication practices: they also offer new windows into human cognition and behavior. By engaging each technological shift as both an object of inquiry and a source of analytic innovation, I connect enduring and emerging theoretical questions in communication with the empirical possibilities opened by new forms of data, interaction, and representation. This approach has guided my work across areas such as computational social science, health communication, audience behavior, and political communication.
