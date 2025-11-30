@@ -14,7 +14,7 @@ Over the course of my career, I have examined how different waves of communicati
 
 <p align="center">
   <a href="/assets/images/MyResearchTrajectory.png">
-    <img src="/assets/images/MyResearchTrajectory.png" width="300">
+    <img src="/assets/images/MyResearchTrajectory.png" width="600">
   </a>
 </p>
 <p align="center"><em>(Click the image to view full size.)</em></p>
