@@ -23,7 +23,7 @@ My research outputs have appeared in top-ranked journals of communication scienc
 <tr>
 <td width="40%" valign="top">
 
-<img src="path/to/figure.png" width="100%" alt="Winson Peng Research Trajectory">
+<img src="/assets/images/MyResearchTrajectory.png" width="100%" alt="Winson Peng Research Trajectory">
 
 </td>
 <td width="60%" valign="top">
