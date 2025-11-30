@@ -12,7 +12,7 @@ I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](ht
 
 <table style="border:none;">
 <tr style="border:none;">
-<td width="60%" valign="top" style="border:none; font-size:16px;">
+<td width="60%" valign="top" style="border:none; font-size:18px;">
 
 Over the course of my career, I have examined how different waves of communication technologies—starting with the internet and extending through social and mobile media to contemporary AI systems—change the ways people encounter information, form judgments, and engage with one another. Across these transitions, my work focuses on how evolving communication environments shape, and are shaped by, fundamental processes of attention, interpretation, and influence. This figure summarizes my long-term research program, tracing how my theoretical and methodological work has evolved across successive communication technology eras.
 
