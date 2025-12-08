@@ -6,16 +6,16 @@ author_profile: true
 
 
 ## Large Language Models and Social Science
-0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
-0. Peng, T. Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. [https://doi.org/10.48550/arXiv.2505.19402](
-https://doi.org/10.48550/arXiv.2505.19402)
-0. Kang, T., Thorson, K., Peng, T.-Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2025). Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation. *Social Science Computer Review*. ([ArXiv Version](https://doi.org/10.48550/arXiv.2502.00903))
-0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2025). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models (No. arXiv:2412.16746; Version 4). arXiv. [https://doi.org/10.48550/arXiv.2412.16746](https://doi.org/10.48550/arXiv.2412.16746)
-0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
+0. Kang, T., Thorson, K., Peng, T.-Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2026). Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation. *Social Science Computer Review*. ([ArXiv Version](https://doi.org/10.48550/arXiv.2502.00903))
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). [Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions](https://www.doi.org/10.1371/journal.pone.0322078). *PLOS One, 20*(4), e0322078.
 0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://doi.org/10.1371/journal.pgph.0004383). *PLOS Global Public Health, 5*(4), e0004383. 
 0. Yang, K., Li, H., Wen, H., Peng, T.-Q., Tang, J., & Liu, H. (2024). [Are Large Language Models (LLMs) Good Social Predictors?](https://aclanthology.org/2024.findings-emnlp.153/) In Y. Al-Onaizan, M. Bansal, & Y.-N. Chen (Eds.), *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 2718–2730). Association for Computational Linguistics. 
 0. Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). [Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias](https://www.doi.org/10.1371/journal.pclm.0000429). *PLOS Climate*.
+0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
+0. Peng, T. Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. [https://doi.org/10.48550/arXiv.2505.19402](
+https://doi.org/10.48550/arXiv.2505.19402)
+0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2025). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models (No. arXiv:2412.16746; Version 4). arXiv. [https://doi.org/10.48550/arXiv.2412.16746](https://doi.org/10.48550/arXiv.2412.16746)
+0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
 
 
 ## Computational Communication as an Emerging Research Paradigm
