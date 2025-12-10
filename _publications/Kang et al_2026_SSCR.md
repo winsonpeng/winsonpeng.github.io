@@ -5,8 +5,8 @@ permalink: /publication/Kang et al_2026_SSCR
 excerpt: ''
 date: 2026-01-15
 venue: 'Social Science Computer Review'
-paperurl: ''
-citation: 'Kang, T., Thorson, K., Peng, T. Q., Lee, S., Hiaeshutter-Rice, D., & Soroka, S. (2026). Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation. <i>Social Science Computer Review</i>.'
+paperurl: 'https://doi.org/10.1177/08944393251410155'
+citation: 'Kang, T., Thorson, K., Peng, T. Q., Lee, S., Hiaeshutter-Rice, D., & Soroka, S. (2026). Embracing dialectic intersubjectivity: Coordination of different perspectives in content analysis with LLM persona simulation. <i>Social Science Computer Review</i>.'
 ---
 
 Abstract
