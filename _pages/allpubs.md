@@ -6,7 +6,7 @@ author_profile: true
 
 
 ## Large Language Models and Social Science
-0. Kang, T., Thorson, K., Peng, T.-Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2026). Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation. *Social Science Computer Review*. ([arXiv Version](https://doi.org/10.48550/arXiv.2502.00903))
+0. Kang, T., Thorson, K., Peng, T.-Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2026). [Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation](https://doi.org/10.1177/08944393251410155). *Social Science Computer Review*. ([arXiv Version](https://doi.org/10.48550/arXiv.2502.00903))
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). [Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions](https://www.doi.org/10.1371/journal.pone.0322078). *PLOS One, 20*(4), e0322078.
 0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://doi.org/10.1371/journal.pgph.0004383). *PLOS Global Public Health, 5*(4), e0004383. 
 0. Yang, K., Li, H., Wen, H., Peng, T.-Q., Tang, J., & Liu, H. (2024). [Are Large Language Models (LLMs) Good Social Predictors?](https://aclanthology.org/2024.findings-emnlp.153/) In Y. Al-Onaizan, M. Bansal, & Y.-N. Chen (Eds.), *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 2718–2730). Association for Computational Linguistics. 
