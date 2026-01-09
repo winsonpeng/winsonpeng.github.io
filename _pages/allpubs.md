@@ -19,7 +19,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 
 
 ## Computational Communication as an Emerging Research Paradigm
-0. Meng, X., Wang, X. H., & Peng, T. Q. (2026). Navigating ambiguities: A systematic review and comparative analysis of social bot detection methods in communication research. *Communication Methods and Measures*.
+0. Meng, X., Wang, X. H., & Peng, T. Q. (2026). [Navigating ambiguities: A systematic review and comparative analysis of social bot detection methods in communication research](https://doi.org/10.1080/19312458.2026.2613829). *Communication Methods and Measures*.
 0. Zhu, J. J. H., Peng, T. Q., & Liang, H. (2025). [Computational communication research: An early and active adopter of computational social science](https://doi.org/10.1177/2057150X251317548). *Chinese Journal of Sociology*.
 0. Zhu, J. J. H., & Peng, T. Q. (2025). [An ecological approach to debated questions in communication research: Issue competition, media convergence, and AI-generated content](https://doi.org/10.1007/s44382-025-00005-0). *Communication and Change*, 1, 2.
 0. Peng, T. Q., & Zhu, J. J. H. (2025). Unpacking time in online behaviors: A temporal framework for computational social science. In: T. Yasseri (Ed.), *Handbook of Computational Social Science*. Edward Elgar Publishing Ltd.
