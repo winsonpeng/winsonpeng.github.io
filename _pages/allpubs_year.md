@@ -99,7 +99,7 @@ https://doi.org/10.48550/arXiv.2505.19402)
 
 Book Chapters/Invited Articles
 =====
-0. Peng, T. Q., & Zhu, J. J. H. (2025). Unpacking time in online behaviors: A temporal framework for computational social science. In: T. Yasseri (Ed.), *Handbook of Computational Social Science*. Edward Elgar Publishing Ltd.
+0. Peng, T. Q., & Zhu, J. J. H. (2025). [Unpacking time in online behaviors: A temporal framework for computational social science](https://doi.org/10.4337/9781802207309.00076). In: T. Yasseri (Ed.), *Handbook of Computational Social Science*. Edward Elgar Publishing Ltd.
 0. Zhang, L, Peng, T. Q., Wang, C. J., Liang, H., & Zhu, J. J. H. (2021). A natural course from marginality to centrality: What we learned from the development of computational communication research in China. In Francis L. F. Lee, Yu Huang (Eds), Inherit and Inspire: The Past, Present and Future of Chinese Communication Studies (pp. 399-419). Hong Kong: Chinese University of Hong Kong Press. [in Chinese]
 0. Zhou, Y. X., Lan, J., & Peng, T. Q. (2021). Big data analysis and visualization. In Xiaohua Wang, Wenliang Guo (Eds), Communication Research Methods (pp. 380-408). Beijing: Higher Education Press. [in Chinese]
 0.	Lee, S., & Peng, T. Q. (2021). Big Data, Analysis of. In Jan Van den Bulck (Eds.), The International Encyclopedia of Media Psychology. Wiley-Blackwell.
