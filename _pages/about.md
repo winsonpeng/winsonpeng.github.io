@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <blockquote>
-  “The limits of my language mean the limits of my world.”
-  <footer>— Ludwig Wittgenstein</footer>
+  “A problem well-stated is a problem half-solved.”
+  <footer>— Charles F. Kettering</footer>
 </blockquote>
 
 I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](https://comartsci.msu.edu/our-people/taiquan-winson-peng) at Michigan State University, USA. 
