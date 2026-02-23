@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<blockquote>
+  “The limits of my language mean the limits of my world.”
+  <footer>— Ludwig Wittgenstein</footer>
+</blockquote>
+
 I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](https://comartsci.msu.edu/our-people/taiquan-winson-peng) at Michigan State University, USA. 
 
 Over the course of my career, I have examined how different waves of communication technologies—starting with the internet and extending through social and mobile media to contemporary AI systems—change the ways people encounter information, form judgments, and engage with one another. Across these transitions, my work focuses on how evolving communication environments shape, and are shaped by, fundamental processes of attention, interpretation, and influence. This figure summarizes my long-term research program, tracing how my theoretical and methodological work has evolved across successive communication technology eras.
