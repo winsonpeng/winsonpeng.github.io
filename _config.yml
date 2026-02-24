@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Winson Peng, Ph.D."
   avatar           : "Peng.png"
-  bio              : "Professor of Communication"
-  location         : "East Lansing, MI 48824"
+  bio              : "“A problem well stated is a problem half solved.” — Charles F. Kettering"
+  location         : "Professor of Communication, East Lansing, MI 48824"
   googlescholar    : "https://scholar.google.com/citations?user=iF4HlRQAAAAJ&hl=en"
   email            : "pengtaiq@msu.edu"
   researchgate     : "https://www.researchgate.net/profile/Tai-Quan-Peng"
@@ -102,7 +102,6 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-2588-7491"
-  bio              : "“A problem well stated is a problem half solved.” — Charles F. Kettering"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
