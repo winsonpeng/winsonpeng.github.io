@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-03-30
 venue: 'Journal of Information Technology & Politics'
 paperurl: 'https://doi.org/10.48550/arXiv.2412.16746'
-citation: 'Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models. \textit{Journal of Information Technology & Politics}.'
+citation: 'Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models. <i>Journal of Information Technology & Politics<\i>.'
 ---
 
 Abstract
