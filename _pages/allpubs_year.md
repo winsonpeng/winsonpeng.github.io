@@ -14,10 +14,10 @@ author_profile: true
 0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
 0. Peng, T. Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. [https://doi.org/10.48550/arXiv.2505.19402](
 https://doi.org/10.48550/arXiv.2505.19402)
-0. Peng, T.-Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2025). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models (No. arXiv:2412.16746; Version 4). arXiv. [https://doi.org/10.48550/arXiv.2412.16746](https://doi.org/10.48550/arXiv.2412.16746)
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
 
 ## Journal Articles
+0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models. *Journal of Information Technology & Politics*. ([arXiv Version](https://doi.org/10.48550/arXiv.2412.16746))
 0. Meng, X., Wang, X. H., & Peng, T. Q. (2026). [Navigating ambiguities: A systematic review and comparative analysis of social bot detection methods in communication research](https://doi.org/10.1080/19312458.2026.2613829). *Communication Methods and Measures*.
 0. Kang, T., Thorson, K., Peng, T. Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2026). [Embracing dialectic intersubjectivity: Coordination of different perspectives in content analysis with LLM persona simulation](https://doi.org/10.1177/08944393251410155). *Social Science Computer Review*. ([arXiv version](https://doi.org/10.48550/arXiv.2502.00903))
 0. Sheng, R., Wang, Y., Wang, X., Guo, Q., Dai, S., Peng T. Q., Qu, H., & Liu, D. (2026). [EMINDS: Understanding user behavior progression for mental health exploration on social media](https://doi.org/10.1109/TVCG.2025.3630646). *IEEE Transactions on Visualization and Computer Graphics*.
