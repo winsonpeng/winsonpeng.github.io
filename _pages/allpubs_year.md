@@ -11,6 +11,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Preprint
+0. Peng, T. Q., Tian, Y., Liang, S., Deng, D., & Wu, Y. (2026). Do LLM-Driven Agents Exhibit Engagement Mechanisms? Controlled Tests of Information Load, Descriptive Norms, and Popularity Cues. arXiv. 
 0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
 0. Peng, T. Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. [https://doi.org/10.48550/arXiv.2505.19402](
 https://doi.org/10.48550/arXiv.2505.19402)
