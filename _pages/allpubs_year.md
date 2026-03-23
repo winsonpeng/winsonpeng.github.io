@@ -22,7 +22,7 @@ author_profile: true
 0. Zhou, Y. X., Lan, J., & Peng, T. Q. (2021). Big data analysis and visualization. In Xiaohua Wang, Wenliang Guo (Eds), Communication Research Methods (pp. 380-408). Beijing: Higher Education Press. [in Chinese]
 0.	Lee, S., & Peng, T. Q. (2021). Big Data, Analysis of. In Jan Van den Bulck (Eds.), The International Encyclopedia of Media Psychology. Wiley-Blackwell.
 0.	Dearing, J. W., Kee, K. F., & Peng, T. Q. (2018). Historical roots of dissemination and implementation science. In R. C. Brownson, G. A. Colditz, & E. K. Proctor (Eds.), Dissemination and implementation research in health: translating science to practice (2nd ed., pp. 47-61). New York, NY: Oxford University Press.
-0.	Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. e-Science Technology & Application, 5(2), 3-13. [in Chinese]   
+ 
 
 ## Journal Articles
 0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). [Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models](https://doi.org/10.1080/19331681.2026.2646990). *Journal of Information Technology & Politics*. ([arXiv Version](https://doi.org/10.48550/arXiv.2412.16746))
@@ -92,7 +92,8 @@ author_profile: true
 0.	Qin, J., & Peng, T. Q. (2016). Googling environmental issues: Web search queries as a measurement of public attention on environmental issues. Internet Research, 26, 57-73. 
 0.	Peng, T. Q. (2015). Assortative mixing, preferential attachment and triadic closure: A longitudinal study of tie-generative mechanisms in journal citation networks. Journal of Informetrics, 9, 250-262. 
 0.	Zhang, L., & Peng, T. Q. (2015). Breadth, depth and speed: Diffusion of advertising messages on microblogging sites. Internet Research, 25, 453-470. 
-0.	Jiang, L. C., Wang, Z. Z., Peng, T. Q., & Zhu, J. J. H. (2015). The divided communities of shared concerns: Mapping the intellectual structure of e-health research in social science journals. International Journal of Medical Informatics, 84, 24-35. 
+0.	Jiang, L. C., Wang, Z. Z., Peng, T. Q., & Zhu, J. J. H. (2015). The divided communities of shared concerns: Mapping the intellectual structure of e-health research in social science journals. International Journal of Medical Informatics, 84, 24-35.
+0.	Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. e-Science Technology & Application, 5(2), 3-13. [in Chinese]  
 0.	Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual analysis of topic coopetition on social media. IEEE Transactions on Visualization and Computer Graphics, 20, 1753-1762. 
 0.	Zhang, L., Peng, T. Q., Zhang, Y. P., Wang, X. H., & Zhu, J. J. H. (2014). Content or context: Which matters more in information processing on microblogging sites? Computers in Human Behavior, 31, 242-249. 
 0.	Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual analysis of topic competition on social media. IEEE Transactions on Visualization and Computer Graphics, 19, 2012-2021. 
