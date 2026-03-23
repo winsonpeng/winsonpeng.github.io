@@ -13,9 +13,16 @@ author_profile: true
 ## Preprint
 0. Peng, T. Q., Tian, Y., Liang, S., Deng, D., & Wu, Y. (2026). Do LLM-Driven Agents Exhibit Engagement Mechanisms? Controlled Tests of Information Load, Descriptive Norms, and Popularity Cues. arXiv. 
 0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
-0. Peng, T. Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. [https://doi.org/10.48550/arXiv.2505.19402](
-https://doi.org/10.48550/arXiv.2505.19402)
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
+
+## Book Chapters/Invited Articles
+0. Peng, T. Q., & Yang, X. (2026). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods. In Mario Haim, & Emese Domahidi (Eds.). *ICA Handbook of Computational Communication Research*. ([arXiv version](https://doi.org/10.48550/arXiv.2505.19402))
+0. Peng, T. Q., & Zhu, J. J. H. (2025). [Unpacking time in online behaviors: A temporal framework for computational social science](https://doi.org/10.4337/9781802207309.00076). In: T. Yasseri (Ed.), *Handbook of Computational Social Science*. Edward Elgar Publishing Ltd.
+0. Zhang, L, Peng, T. Q., Wang, C. J., Liang, H., & Zhu, J. J. H. (2021). A natural course from marginality to centrality: What we learned from the development of computational communication research in China. In Francis L. F. Lee, Yu Huang (Eds), Inherit and Inspire: The Past, Present and Future of Chinese Communication Studies (pp. 399-419). Hong Kong: Chinese University of Hong Kong Press. [in Chinese]
+0. Zhou, Y. X., Lan, J., & Peng, T. Q. (2021). Big data analysis and visualization. In Xiaohua Wang, Wenliang Guo (Eds), Communication Research Methods (pp. 380-408). Beijing: Higher Education Press. [in Chinese]
+0.	Lee, S., & Peng, T. Q. (2021). Big Data, Analysis of. In Jan Van den Bulck (Eds.), The International Encyclopedia of Media Psychology. Wiley-Blackwell.
+0.	Dearing, J. W., Kee, K. F., & Peng, T. Q. (2018). Historical roots of dissemination and implementation science. In R. C. Brownson, G. A. Colditz, & E. K. Proctor (Eds.), Dissemination and implementation research in health: translating science to practice (2nd ed., pp. 47-61). New York, NY: Oxford University Press.
+0.	Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. e-Science Technology & Application, 5(2), 3-13. [in Chinese]   
 
 ## Journal Articles
 0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). [Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models](https://doi.org/10.1080/19331681.2026.2646990). *Journal of Information Technology & Politics*. ([arXiv Version](https://doi.org/10.48550/arXiv.2412.16746))
@@ -98,11 +105,4 @@ https://doi.org/10.48550/arXiv.2505.19402)
 0.	Peng, T. Q., & Zhu, J. J. H. (2010). Youth and the Internet in east Asia. Journal of Youth Studies, 13, 13-30.
 0.	Peng, T. Q., & Zhu, J. J. H. (2008). Cohort trends in perceived Internet influence on political, efficacy in Hong Kong. Cyberpsychology & Behavior, 11, 75-79. 
 
-Book Chapters/Invited Articles
-=====
-0. Peng, T. Q., & Zhu, J. J. H. (2025). [Unpacking time in online behaviors: A temporal framework for computational social science](https://doi.org/10.4337/9781802207309.00076). In: T. Yasseri (Ed.), *Handbook of Computational Social Science*. Edward Elgar Publishing Ltd.
-0. Zhang, L, Peng, T. Q., Wang, C. J., Liang, H., & Zhu, J. J. H. (2021). A natural course from marginality to centrality: What we learned from the development of computational communication research in China. In Francis L. F. Lee, Yu Huang (Eds), Inherit and Inspire: The Past, Present and Future of Chinese Communication Studies (pp. 399-419). Hong Kong: Chinese University of Hong Kong Press. [in Chinese]
-0. Zhou, Y. X., Lan, J., & Peng, T. Q. (2021). Big data analysis and visualization. In Xiaohua Wang, Wenliang Guo (Eds), Communication Research Methods (pp. 380-408). Beijing: Higher Education Press. [in Chinese]
-0.	Lee, S., & Peng, T. Q. (2021). Big Data, Analysis of. In Jan Van den Bulck (Eds.), The International Encyclopedia of Media Psychology. Wiley-Blackwell.
-0.	Dearing, J. W., Kee, K. F., & Peng, T. Q. (2018). Historical roots of dissemination and implementation science. In R. C. Brownson, G. A. Colditz, & E. K. Proctor (Eds.), Dissemination and implementation research in health: translating science to practice (2nd ed., pp. 47-61). New York, NY: Oxford University Press.
-0.	Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. e-Science Technology & Application, 5(2), 3-13. [in Chinese]   
+
