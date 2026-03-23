@@ -7,6 +7,7 @@ author_profile: true
 
 ## Large Language Models and Social Science
 0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). [Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models](https://doi.org/10.1080/19331681.2026.2646990). *Journal of Information Technology & Politics*. ([arXiv Version](https://doi.org/10.48550/arXiv.2412.16746))
+0. Peng, T. Q., & Yang, X. (2026). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods In Mario Haim, & Emese Domahidi (Eds.). ICA Handbook of Computational Communication Research. ([arXiv version](https://doi.org/10.48550/arXiv.2505.19402))
 0. Kang, T., Thorson, K., Peng, T.-Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2026). [Embracing Dialectic Intersubjectivity: Coordination of Different Perspectives in Content Analysis with LLM Persona Simulation](https://doi.org/10.1177/08944393251410155). *Social Science Computer Review*. ([arXiv Version](https://doi.org/10.48550/arXiv.2502.00903))
 0. Wedyan, M., Yeh, Y. C., Saeidi-Rizi, F., Peng, T. Q., & Chang, C. Y. (2025). [Urban walkability through different lenses: A comparative study of GPT-4o and human perceptions](https://www.doi.org/10.1371/journal.pone.0322078). *PLOS One, 20*(4), e0322078.
 0. Dai, H. X., Li, Y. W., Liu, Z. L., Zhao, L., Wu, Z., Song, S., Ye, S., Zhu, D., Li, X., Li, S., Yao, X., Shi, L., Peng, T. Q., Li, Q., Chen, Z., Zhang, D., Mai, G., Liu, T. (2025). [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://doi.org/10.1371/journal.pgph.0004383). *PLOS Global Public Health, 5*(4), e0004383. 
@@ -14,8 +15,7 @@ author_profile: true
 0. Lee, S., Peng, T. Q., Goldberg, M., Rosenthal, S., Kotcher, J., Maibach, E., & Leiserowitz, A. (2024). [Can large language models capture public opinion about global warming? An empirical assessment of algorithmic fidelity and bias](https://www.doi.org/10.1371/journal.pclm.0000429). *PLOS Climate*.
 0. Peng, T. Q., Tian, Y., Liang, S., Deng, D., & Wu, Y. (2026). Do LLM-Driven Agents Exhibit Engagement Mechanisms? Controlled Tests of Information Load, Descriptive Norms, and Popularity Cues. arXiv. 
 0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
-0. Peng, T. Q., & Yang, X. (2025). Recalibrating the Compass: Integrating Large Language Models into Classical Research Methods (No. arXiv:2505.19402). arXiv. [https://doi.org/10.48550/arXiv.2505.19402](
-https://doi.org/10.48550/arXiv.2505.19402)
+
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
 
 
