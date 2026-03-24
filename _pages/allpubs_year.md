@@ -11,7 +11,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Preprint
-0. Peng, T. Q., Tian, Y., Liang, S., Deng, D., & Wu, Y. (2026). Do LLM-Driven Agents Exhibit Engagement Mechanisms? Controlled Tests of Information Load, Descriptive Norms, and Popularity Cues. arXiv. 
+0. Peng, T. Q., Tian, Y., Liang, S., Deng, D., & Wu, Y. (2026). Do LLM-Driven Agents Exhibit Engagement Mechanisms? Controlled Tests of Information Load, Descriptive Norms, and Popularity Cues (No. arXiv:2603.20911). arXiv. [https://doi.org/10.48550/arXiv.2603.20911](https://doi.org/10.48550/arXiv.2603.20911) 
 0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
 
