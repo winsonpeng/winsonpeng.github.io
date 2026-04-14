@@ -25,6 +25,7 @@ author_profile: true
  
 
 ## Journal Articles
+0. Donohue, W., & Peng, T. Q. (2026). Understanding polarizing language: Developing a coding instrument. *Journal of Language and Social Psychology*. 
 0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). [Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models](https://doi.org/10.1080/19331681.2026.2646990). *Journal of Information Technology & Politics*. ([arXiv Version](https://doi.org/10.48550/arXiv.2412.16746))
 0. Meng, X., Wang, X. H., & Peng, T. Q. (2026). [Navigating ambiguities: A systematic review and comparative analysis of social bot detection methods in communication research](https://doi.org/10.1080/19312458.2026.2613829). *Communication Methods and Measures*.
 0. Kang, T., Thorson, K., Peng, T. Q., Hiaeshutter-Rice, D., Lee, S., & Soroka, S. (2026). [Embracing dialectic intersubjectivity: Coordination of different perspectives in content analysis with LLM persona simulation](https://doi.org/10.1177/08944393251410155). *Social Science Computer Review*. ([arXiv version](https://doi.org/10.48550/arXiv.2502.00903))
