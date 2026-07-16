@@ -12,7 +12,6 @@ author_profile: true
 
 ## Preprint
 0. Peng, T. Q., Tian, Y., Liang, S., Deng, D., & Wu, Y. (2026). Do LLM-Driven Agents Exhibit Engagement Mechanisms? Controlled Tests of Information Load, Descriptive Norms, and Popularity Cues (No. arXiv:2603.20911). arXiv. [https://doi.org/10.48550/arXiv.2603.20911](https://doi.org/10.48550/arXiv.2603.20911) 
-0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2025). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis (No. arXiv:2510.26172). arXiv. [https://doi.org/10.48550/arXiv.2510.26172](https://doi.org/10.48550/arXiv.2510.26172)
 0. Lee, S., Yang, K.-Q., Peng, T.-Q., Heo, R., & Liu, H. (2024). Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations (No. arXiv:2410.15442). arXiv. [https://doi.org/10.48550/arXiv.2410.15442](https://doi.org/10.48550/arXiv.2410.15442)
 
 ## Book Chapters/Encyclopedia Entries
@@ -25,6 +24,8 @@ author_profile: true
  
 
 ## Journal Articles
+0. Yin, J., Zheng, H., Zhou, B., Tian, Y., Ying, L., Peng, T. Q., Deng, D. Wu, Y., & Tang, T. (2027). PolarWeather: Visual Analysis of Polarization Dynamics in Multi-Platform Social Media. *IEEE Transactions on Visualization and Computer Graphics*.
+0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2027). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis. *IEEE Transactions on Visualization and Computer Graphics*. ([arXiv version](https://doi.org/10.48550/arXiv.2510.26172))
 0. Donohue, W., & Peng, T. Q. (2026). [Understanding polarizing language: Developing a coding instrument](https://doi.org/10.1177/0261927X261445987). *Journal of Language and Social Psychology*. 
 0. Peng, T. Q., Yang, K., Lee, S., Li, H., Chu, Y., Lin, Y., & Liu, H. (2026). [Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models](https://doi.org/10.1080/19331681.2026.2646990). *Journal of Information Technology & Politics*. ([arXiv Version](https://doi.org/10.48550/arXiv.2412.16746))
 0. Meng, X., Wang, X. H., & Peng, T. Q. (2026). [Navigating ambiguities: A systematic review and comparative analysis of social bot detection methods in communication research](https://doi.org/10.1080/19312458.2026.2613829). *Communication Methods and Measures*.
