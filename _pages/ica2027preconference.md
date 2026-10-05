@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: ""
-permalink: /ica2027-preconference/
+permalink: /ica2027preconference/
 author_profile: true
 ---
 {% include base_path %}
