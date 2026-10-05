@@ -21,7 +21,19 @@ Dr. Dayei Oh (University of Strathclyde, UK)
 Dr. Yingdan Lu (Northwestern University, USA)  
 Dr. Guang Yang (Shenzhen University, China)
 
-## Description
+## How to Submit
+
+Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)**
+**File format:** PDF  
+**File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`
+
+## Registration
+**Registration fee:** USD 50 per participant
+The registration fee will help cover preconference expenses, including refreshments and, subject to available funding, lunch.
+
+<details>
+<summary><strong>Description</strong></summary>
+  
 Generative AI (GenAI) is rapidly becoming part of the research infrastructure of communication research. Researchers are using large language models (LLMs) to code and interpret communication content, augment survey research, generate and personalize experimental stimuli, simulate communication processes, actors, and environments, and develop new forms of data collection and analysis. These developments offer substantial opportunities for methodological innovation. At the same time, they raise a more fundamental question:
 
 > **When can outputs produced or assisted by GenAI be treated as valid scientific evidence about human communication?**
@@ -31,6 +43,7 @@ Recent methodological work has highlighted the importance of this question. Dell
 These concerns are particularly consequential for communication research. High agreement between an AI system and human coders does not necessarily demonstrate that the system captures the intended theoretical construct. Realistic AI-generated survey responses may not establish measurement equivalence or population validity. Personalized experimental stimuli may introduce new questions about treatment validity, experimental control, and reproducibility. Generative agents may reproduce recognizable patterns of communication without reproducing the psychological, interpersonal, or social mechanisms that generate those patterns among humans.
 
 The preconference will bring together communication scholars, methodologists, computational researchers, and AI ethicists to examine how validation should be conceptualized, implemented, and reported as GenAI becomes increasingly integrated into communication research. The goal is not to establish a single universal validation standard. Rather, the preconference seeks to clarify what forms of validation evidence are needed for different research purposes, methods, populations, contexts, and levels of inference.
+</details>
 
 <details>
 <summary><strong>Topics of Interest</strong></summary>
@@ -52,7 +65,8 @@ We particularly welcome submissions that move beyond demonstrating that a GenAI 
 
 </details>
 
-## Submission Guidelines
+<details>
+<summary><strong>Submission Guideline</strong></summary>
 
 Participants should submit an **extended abstract of no more than 500 words**. The 500-word limit excludes references, tables, and figures.
 
@@ -75,21 +89,13 @@ Author information does **not** count toward the 500-word limit.
 
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research.
 
-## Important Dates
+<details>
+<summary><strong>Important Dates</strong></summary>
 
 - **Submission deadline:** January 31, 2027
 - **Notification of acceptance:** February 14, 2027
 - **Preconference:** June 2, 2027
 
-## How to Submit
+</details>
 
-Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)**
 
-**File format:** PDF  
-**File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`
-
-## Registration
-
-**Registration fee:** USD 50 per participant
-
-The registration fee will help cover preconference expenses, including refreshments and, subject to available funding, lunch.
