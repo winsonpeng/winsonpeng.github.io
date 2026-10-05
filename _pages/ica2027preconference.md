@@ -21,19 +21,7 @@ Dr. Dayei Oh (University of Strathclyde, UK)
 Dr. Yingdan Lu (Northwestern University, USA)  
 Dr. Guang Yang (Shenzhen University, China)
 
-### How to Submit
 
-Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)** <br>
-**File format:** PDF <br>
-**File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`<br>
-
-### Important Dates
-**Submission deadline:** January 31, 2027 <br>
-**Notification of acceptance:** February 14, 2027 <br>
-
-### Registration
-**Registration fee:** USD 50 per participant
-The registration fee will help cover preconference expenses, including refreshments and, subject to available funding, lunch.
 
 ### Overview
   
@@ -82,22 +70,30 @@ The preconference will bring together communication scholars, methodologists, co
 
 ### Submission Guideline
 
-Participants should submit an **extended abstract of no more than 500 words**. The 500-word limit excludes references, tables, and figures.
-
-Extended abstracts should clearly describe: *the research problem or methodological issue*; *the approach or argument advanced*; and *its relevance to the validation of GenAI-enabled methods in communication research*.
-
-Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions.
-
-The submission must also include the following information for each author:
-- Full name
-- Institutional affiliation
-- Email address
-- Indication of the presenting author(s)
-
-Author information does **not** count toward the 500-word limit.
-
+Participants should submit an **extended abstract of no more than 500 words**. The 500-word limit excludes references, tables, and figures. <br>
+Extended abstracts should clearly describe: *the research problem or methodological issue*; *the approach or argument advanced*; and *its relevance to the validation of GenAI-enabled methods in communication research*. <br>
+Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. <br>
+The submission must also include the following information for each author: <br>
+- Full name <br>
+- Institutional affiliation <br>
+- Email address <br>
+- Indication of the presenting author(s) <br>
+Author information does **not** count toward the 500-word limit. <br>
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research.
 
+### How to Submit
+
+Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)** <br>
+**File format:** PDF <br>
+**File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`<br>
+
+### Important Dates
+**Submission deadline:** January 31, 2027 <br>
+**Notification of acceptance:** February 14, 2027 <br>
+
+### Registration
+**Registration fee:** USD 50 per participant
+The registration fee will help cover preconference expenses, including refreshments and, subject to available funding, lunch.
 
 
 
