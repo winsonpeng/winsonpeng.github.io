@@ -78,6 +78,7 @@ The submission must also include the following information for each author: <br>
 - Institutional affiliation <br>
 - Email address <br>
 - Indication of the presenting author(s) <br>
+
 Author information does **not** count toward the 500-word limit. <br>
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research. <br>
 
