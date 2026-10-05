@@ -16,10 +16,10 @@ author_profile: true
 **Location:** University of Strathclyde, Glasgow, United Kingdom
 
 **Preconference Organization Team:**  
-Dr. Winson Peng ([pengtaiq@msu.edu](mailto:pengtaiq@msu.edu))  
-Dr. Dayei Oh ([dayei.oh@strath.ac.uk](mailto:dayei.oh@strath.ac.uk))  
-Dr. Yingdan Lu ([yingdan@northwestern.edu](mailto:yingdan@northwestern.edu))  
-Dr. Guang Yang ([sunnyyang@szu.edu.cn](mailto:sunnyyang@szu.edu.cn))
+Dr. Winson Peng (Michigan State University, USA)  
+Dr. Dayei Oh (University of Strathclyde, UK)  
+Dr. Yingdan Lu (Northwestern University, USA)  
+Dr. Guang Yang (Shenzhen University, China)
 
 Generative AI (GenAI) is rapidly becoming part of the research infrastructure of communication research. Researchers are using large language models (LLMs) to code and interpret communication content, augment survey research, generate and personalize experimental stimuli, simulate communication processes, actors, and environments, and develop new forms of data collection and analysis. These developments offer substantial opportunities for methodological innovation. At the same time, they raise a more fundamental question:
 
