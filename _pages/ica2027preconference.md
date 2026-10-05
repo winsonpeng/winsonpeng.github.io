@@ -51,32 +51,36 @@ These concerns are particularly consequential for communication research. High a
 The preconference will bring together communication scholars, methodologists, computational researchers, and AI ethicists to examine how validation should be conceptualized, implemented, and reported as GenAI becomes increasingly integrated into communication research. The goal is not to establish a single universal validation standard. Rather, the preconference seeks to clarify what forms of validation evidence are needed for different research purposes, methods, populations, contexts, and levels of inference.
 </details>
 
-### Topics of Interest
+<details>
+  <summary><strong>Topics of Interest</strong></summary>
 
-We invite conceptual, methodological, and empirical submissions addressing issues including, but not limited to:
+  <p>We invite conceptual, methodological, and empirical submissions addressing issues including, but not limited to:</p>
 
+  <ul>
+    <li><strong>GenAI-enabled content analysis and computational measurement</strong>, including construct definition, human-AI agreement, benchmark selection, measurement error, and validation of AI-generated variables;</li>
 
-- **GenAI-enabled content analysis and computational measurement**, including construct definition, human-AI agreement, benchmark selection, measurement error, and validation of AI-generated variables;
-  
-- **GenAI-enabled surveys and interviewing**, including AI-generated probes, conversational surveys, synthetic responses, measurement equivalence, response processes, and population validity;
-  
-- **GenAI-enabled experiments**, including generated or personalized stimuli, treatment validity, experimental control, robustness, transparency, and reproducibility;
-  
-- **GenAI-enabled social simulation and generative agents**, including behavioral and generative validity, mechanism validation, correspondence with human behavior, and appropriate limits of inference;
-  
-- **Validation frameworks for GenAI-enabled research**, including construct, criterion, content, external, and inferential validity;
+    <li><strong>GenAI-enabled surveys and interviewing</strong>, including AI-generated probes, conversational surveys, synthetic responses, measurement equivalence, response processes, and population validity;</li>
 
-- **Robustness and sensitivity of GenAI-enabled methods** across models, prompts, training procedures, samples, populations, languages, and social contexts;
+    <li><strong>GenAI-enabled experiments</strong>, including generated or personalized stimuli, treatment validity, experimental control, robustness, transparency, and reproducibility;</li>
 
-- **Human benchmarks and validation data**, including the role and limitations of expert judgments, human annotations, validation samples, and conventional measurement instruments;
+    <li><strong>GenAI-enabled social simulation and generative agents</strong>, including behavioral and generative validity, mechanism validation, correspondence with human behavior, and appropriate limits of inference;</li>
 
-- **Relationships among measurement, evidence, and scientific claims**, particularly the conditions under which AI-generated outputs can support broader theoretical or empirical conclusions;
+    <li><strong>Validation frameworks for GenAI-enabled research</strong>, including construct, criterion, content, external, and inferential validity;</li>
 
-- **Transparency, reproducibility, and reporting standards** for GenAI-enabled communication research;
+    <li><strong>Robustness and sensitivity of GenAI-enabled methods</strong> across models, prompts, training procedures, samples, populations, languages, and social contexts;</li>
 
-- Other conceptual or methodological issues concerning the use and validation of GenAI throughout the communication research process.
+    <li><strong>Human benchmarks and validation data</strong>, including the role and limitations of expert judgments, human annotations, validation samples, and conventional measurement instruments;</li>
 
-We particularly welcome submissions that move beyond demonstrating that a GenAI method works and instead examine **what its outputs allow researchers to claim, what evidence is needed to support those claims, and where the boundaries of those claims should be drawn**.
+    <li><strong>Relationships among measurement, evidence, and scientific claims</strong>, particularly the conditions under which AI-generated outputs can support broader theoretical or empirical conclusions;</li>
+
+    <li><strong>Transparency, reproducibility, and reporting standards</strong> for GenAI-enabled communication research;</li>
+
+    <li>Other conceptual or methodological issues concerning the use and validation of GenAI throughout the communication research process.</li>
+  </ul>
+
+  <p>We particularly welcome submissions that move beyond demonstrating that a GenAI method works and instead examine <strong>what its outputs allow researchers to claim, what evidence is needed to support those claims, and where the boundaries of those claims should be drawn</strong>.</p>
+
+</details>
 
 
 ### Submission Guideline
