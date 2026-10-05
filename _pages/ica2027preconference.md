@@ -23,10 +23,8 @@ Dr. Guang Yang (Shenzhen University, China)
 
 ### How to Submit
 
-Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)**
-
-**File format:** PDF  
-
+Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)** 
+**File format:** PDF 
 **File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`
 
 ### Important Dates
