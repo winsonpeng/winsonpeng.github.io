@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /si/
+permalink: /ica2027preconference/
 author_profile: true
 ---
 {% include base_path %}
