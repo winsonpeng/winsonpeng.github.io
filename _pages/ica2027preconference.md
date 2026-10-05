@@ -50,6 +50,7 @@ The preconference will bring together communication scholars, methodologists, co
 
 We invite conceptual, methodological, and empirical submissions addressing issues including, but not limited to:
 
+
 - **GenAI-enabled content analysis and computational measurement**, including construct definition, human-AI agreement, benchmark selection, measurement error, and validation of AI-generated variables;
   
 - **GenAI-enabled surveys and interviewing**, including AI-generated probes, conversational surveys, synthetic responses, measurement equivalence, response processes, and population validity;
