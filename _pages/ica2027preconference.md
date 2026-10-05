@@ -24,7 +24,9 @@ Dr. Guang Yang (Shenzhen University, China)
 ## How to Submit
 
 Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)**
+
 **File format:** PDF  
+
 **File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`
 
 ## Registration
@@ -43,7 +45,8 @@ These concerns are particularly consequential for communication research. High a
 
 The preconference will bring together communication scholars, methodologists, computational researchers, and AI ethicists to examine how validation should be conceptualized, implemented, and reported as GenAI becomes increasingly integrated into communication research. The goal is not to establish a single universal validation standard. Rather, the preconference seeks to clarify what forms of validation evidence are needed for different research purposes, methods, populations, contexts, and levels of inference.
 
-## Topics of Interest
+<details>
+<summary><strong>Topics of Interest</strong></summary>
 
 We invite conceptual, methodological, and empirical submissions addressing issues including, but not limited to:
 
@@ -59,7 +62,7 @@ We invite conceptual, methodological, and empirical submissions addressing issue
 - Other conceptual or methodological issues concerning the use and validation of GenAI throughout the communication research process.
 
 We particularly welcome submissions that move beyond demonstrating that a GenAI method works and instead examine **what its outputs allow researchers to claim, what evidence is needed to support those claims, and where the boundaries of those claims should be drawn**.
-
+</details>
 
 ## Submission Guideline
 
