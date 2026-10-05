@@ -1,5 +1,6 @@
 
 ---
+layout: archive
 title: ""
 permalink: /ica2027-preconference/
 author_profile: true
