@@ -32,7 +32,6 @@ Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aip
 ### Important Dates
 - **Submission deadline:** January 31, 2027
 - **Notification of acceptance:** February 14, 2027
-- **Preconference:** June 2, 2027
 
 ### Registration
 **Registration fee:** USD 50 per participant
