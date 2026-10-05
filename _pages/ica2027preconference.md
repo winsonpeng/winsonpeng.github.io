@@ -21,21 +21,21 @@ Organized by
 <table style="margin-left: auto; margin-right: auto; border: none; font-size: 1em;">
   <tr>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      <strong>Dr. Winson Peng</strong>strong><br>
+      <strong>Dr. Winson Peng</strong><br>
       Michigan State University, USA
     </td>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      <strong>Dr. Dayei Oh</strong>strong><br>
+      <strong>Dr. Dayei Oh</strong><br>
       University of Strathclyde, UK
     </td>
   </tr>
   <tr>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      <strong>Dr. Yingdan Lu</strong>strong><br>
+      <strong>Dr. Yingdan Lu</strong><br>
       Northwestern University, USA
     </td>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      <strong>Dr. Guang Yang</strong>strong><br>
+      <strong>Dr. Guang Yang</strong><br>
       Shenzhen University, China
     </td>
   </tr>
