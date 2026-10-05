@@ -43,6 +43,7 @@ Recent methodological work has highlighted the importance of this question. Dell
 These concerns are particularly consequential for communication research. High agreement between an AI system and human coders does not necessarily demonstrate that the system captures the intended theoretical construct. Realistic AI-generated survey responses may not establish measurement equivalence or population validity. Personalized experimental stimuli may introduce new questions about treatment validity, experimental control, and reproducibility. Generative agents may reproduce recognizable patterns of communication without reproducing the psychological, interpersonal, or social mechanisms that generate those patterns among humans.
 
 The preconference will bring together communication scholars, methodologists, computational researchers, and AI ethicists to examine how validation should be conceptualized, implemented, and reported as GenAI becomes increasingly integrated into communication research. The goal is not to establish a single universal validation standard. Rather, the preconference seeks to clarify what forms of validation evidence are needed for different research purposes, methods, populations, contexts, and levels of inference.
+
 </details>
 
 <details>
@@ -88,6 +89,8 @@ The submission must also include the following information for each author:
 Author information does **not** count toward the 500-word limit.
 
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research.
+
+</details>
 
 <details>
 <summary><strong>Important Dates</strong></summary>
