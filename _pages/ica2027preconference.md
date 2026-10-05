@@ -31,8 +31,7 @@ Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aip
 **Registration fee:** USD 50 per participant
 The registration fee will help cover preconference expenses, including refreshments and, subject to available funding, lunch.
 
-<details>
-<summary><strong>Description</strong></summary>
+## Description
   
 Generative AI (GenAI) is rapidly becoming part of the research infrastructure of communication research. Researchers are using large language models (LLMs) to code and interpret communication content, augment survey research, generate and personalize experimental stimuli, simulate communication processes, actors, and environments, and develop new forms of data collection and analysis. These developments offer substantial opportunities for methodological innovation. At the same time, they raise a more fundamental question:
 
@@ -44,37 +43,33 @@ These concerns are particularly consequential for communication research. High a
 
 The preconference will bring together communication scholars, methodologists, computational researchers, and AI ethicists to examine how validation should be conceptualized, implemented, and reported as GenAI becomes increasingly integrated into communication research. The goal is not to establish a single universal validation standard. Rather, the preconference seeks to clarify what forms of validation evidence are needed for different research purposes, methods, populations, contexts, and levels of inference.
 
-</details>
+## Topics of Interest
 
-<details>
-  <summary><strong>Topics of Interest</strong></summary>
+We invite conceptual, methodological, and empirical submissions addressing issues including, but not limited to:
 
-  <p>We invite conceptual, methodological, and empirical submissions addressing issues including, but not limited to:</p>
+- **GenAI-enabled content analysis and computational measurement**, including construct definition, human-AI agreement, benchmark selection, measurement error, and validation of AI-generated variables;
+- **GenAI-enabled surveys and interviewing**, including AI-generated probes, conversational surveys, synthetic responses, measurement equivalence, response processes, and population validity;
+- **GenAI-enabled experiments**, including generated or personalized stimuli, treatment validity, experimental control, robustness, transparency, and reproducibility;
+- **GenAI-enabled social simulation and generative agents**, including behavioral and generative validity, mechanism validation, correspondence with human behavior, and appropriate limits of inference;
+- **Validation frameworks for GenAI-enabled research**, including construct, criterion, content, external, and inferential validity;
+- **Robustness and sensitivity of GenAI-enabled methods** across models, prompts, training procedures, samples, populations, languages, and social contexts;
+- **Human benchmarks and validation data**, including the role and limitations of expert judgments, human annotations, validation samples, and conventional measurement instruments;
+- **Relationships among measurement, evidence, and scientific claims**, particularly the conditions under which AI-generated outputs can support broader theoretical or empirical conclusions;
+- **Transparency, reproducibility, and reporting standards** for GenAI-enabled communication research;
+- Other conceptual or methodological issues concerning the use and validation of GenAI throughout the communication research process.
 
-  <ul>
-    <li><strong>GenAI-enabled content analysis and computational measurement</strong>, including construct definition, human-AI agreement, benchmark selection, measurement error, and validation of AI-generated variables;</li>
-    <li><strong>GenAI-enabled surveys and interviewing</strong>, including AI-generated probes, conversational surveys, synthetic responses, measurement equivalence, response processes, and population validity;</li>
-    <li><strong>GenAI-enabled experiments</strong>, including generated or personalized stimuli, treatment validity, experimental control, robustness, transparency, and reproducibility;</li>
-  </ul>
+We particularly welcome submissions that move beyond demonstrating that a GenAI method works and instead examine **what its outputs allow researchers to claim, what evidence is needed to support those claims, and where the boundaries of those claims should be drawn**.
 
-  <p>We particularly welcome submissions that move beyond demonstrating that a GenAI method works and instead examine <strong>what its outputs allow researchers to claim, what evidence is needed to support those claims, and where the boundaries of those claims should be drawn</strong>.</p>
-</details>
 
-<details>
-<summary><strong>Submission Guideline</strong></summary>
+## Submission Guideline
 
 Participants should submit an **extended abstract of no more than 500 words**. The 500-word limit excludes references, tables, and figures.
 
-Extended abstracts should clearly describe:
-
-- the research problem or methodological issue;
-- the approach or argument advanced; and
-- its relevance to the validation of GenAI-enabled methods in communication research.
+Extended abstracts should clearly describe: *the research problem or methodological issue*; *the approach or argument advanced*; and *its relevance to the validation of GenAI-enabled methods in communication research*.
 
 Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions.
 
 The submission must also include the following information for each author:
-
 - Full name
 - Institutional affiliation
 - Email address
