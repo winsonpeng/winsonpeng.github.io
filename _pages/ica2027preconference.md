@@ -7,18 +7,40 @@ author_profile: true
 {% include base_path %}
 
 
-## ICA'2027 Preconference Call for Extended Abstracts
+<div style="text-align: center;">
 
-### From Outputs to Evidence: Validating GenAI-Enabled Methods in Communication Research
+<strong>ICA 2027 Preconference</strong><br>
+<strong>Date:</strong> June 2, 2027<br>
+<strong>Location:</strong> University of Strathclyde, Glasgow, United Kingdom
 
-**Date:** June 2, 2027  
-**Location:** University of Strathclyde, Glasgow, United Kingdom
+<br><br>
 
-**Preconference Organization Team:**  
-Dr. Winson Peng (Michigan State University, USA)  
-Dr. Dayei Oh (University of Strathclyde, UK)  
-Dr. Yingdan Lu (Northwestern University, USA)  
-Dr. Guang Yang (Shenzhen University, China)
+<strong>Preconference Organization Team</strong>
+
+<table style="margin-left: auto; margin-right: auto; border: none;">
+  <tr>
+    <td style="border: none; padding: 4px 18px; text-align: center;">
+      Dr. Winson Peng<br>
+      Michigan State University, USA
+    </td>
+    <td style="border: none; padding: 4px 18px; text-align: center;">
+      Dr. Dayei Oh<br>
+      University of Strathclyde, UK
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 4px 18px; text-align: center;">
+      Dr. Yingdan Lu<br>
+      Northwestern University, USA
+    </td>
+    <td style="border: none; padding: 4px 18px; text-align: center;">
+      Dr. Guang Yang<br>
+      Shenzhen University, China
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
