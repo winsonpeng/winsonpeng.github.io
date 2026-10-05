@@ -4,6 +4,7 @@ title: "From Outputs to Evidence"
 permalink: /ica2027-preconference/
 author_profile: true
 ---
+{% include base_path %}
 
 # Call for Extended Abstracts
 
