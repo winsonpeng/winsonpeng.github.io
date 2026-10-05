@@ -1,6 +1,6 @@
 
 ---
-title: "From Outputs to Evidence"
+title: ""
 permalink: /ica2027-preconference/
 author_profile: true
 ---
