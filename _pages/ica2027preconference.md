@@ -16,26 +16,26 @@ author_profile: true
 
 <br><br>
 
-<strong>Preconference Organization Team</strong>
+Organized by
 
 <table style="margin-left: auto; margin-right: auto; border: none; font-size: 1em;">
   <tr>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      Dr. Winson Peng<br>
+      <strong>Dr. Winson Peng</strong>strong><br>
       Michigan State University, USA
     </td>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      Dr. Dayei Oh<br>
+      <strong>Dr. Dayei Oh</strong>strong><br>
       University of Strathclyde, UK
     </td>
   </tr>
   <tr>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      Dr. Yingdan Lu<br>
+      <strong>Dr. Yingdan Lu</strong>strong><br>
       Northwestern University, USA
     </td>
     <td style="border: none; padding: 4px 18px; text-align: center;">
-      Dr. Guang Yang<br>
+      <strong>Dr. Guang Yang</strong>strong><br>
       Shenzhen University, China
     </td>
   </tr>
