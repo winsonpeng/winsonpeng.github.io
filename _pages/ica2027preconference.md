@@ -7,9 +7,10 @@ author_profile: true
 {% include base_path %}
 
 
-<div style="text-align: center;">
+<div style="text-align: center; font-size: 1.1em;">
 
 <strong>ICA 2027 Preconference</strong><br>
+<strong>From Outputs to Evidence: Validating GenAI-Enabled Methods in Communication Research</strong><br>
 <strong>Date:</strong> June 2, 2027<br>
 <strong>Location:</strong> University of Strathclyde, Glasgow, United Kingdom
 
@@ -17,7 +18,7 @@ author_profile: true
 
 <strong>Preconference Organization Team</strong>
 
-<table style="margin-left: auto; margin-right: auto; border: none;">
+<table style="margin-left: auto; margin-right: auto; border: none; font-size: 1em;">
   <tr>
     <td style="border: none; padding: 4px 18px; text-align: center;">
       Dr. Winson Peng<br>
