@@ -79,15 +79,10 @@ Author information does **not** count toward the 500-word limit.
 
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research.
 
-</details>
-
-<details>
-<summary><strong>Important Dates</strong></summary>
-
+## Important Dates
 - **Submission deadline:** January 31, 2027
 - **Notification of acceptance:** February 14, 2027
 - **Preconference:** June 2, 2027
 
-</details>
 
 
