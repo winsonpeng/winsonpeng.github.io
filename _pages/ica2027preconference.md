@@ -23,13 +23,13 @@ Dr. Guang Yang (Shenzhen University, China)
 
 ### How to Submit
 
-Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)** \newline
-**File format:** PDF \\
-**File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`\\
+Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)** <br>
+**File format:** PDF <br>
+**File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`<br>
 
 ### Important Dates
-- **Submission deadline:** January 31, 2027
-- **Notification of acceptance:** February 14, 2027
+**Submission deadline:** January 31, 2027 <br>
+**Notification of acceptance:** February 14, 2027 <br>
 
 ### Registration
 **Registration fee:** USD 50 per participant
