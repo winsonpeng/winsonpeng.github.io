@@ -50,7 +50,7 @@ These concerns are particularly consequential for communication research. High a
 
 The preconference will bring together communication scholars, methodologists, computational researchers, and AI ethicists to examine how validation should be conceptualized, implemented, and reported as GenAI becomes increasingly integrated into communication research. The goal is not to establish a single universal validation standard. Rather, the preconference seeks to clarify what forms of validation evidence are needed for different research purposes, methods, populations, contexts, and levels of inference.
 
-###Topics of Interest
+### Topics of Interest
 
 We invite conceptual, methodological, and empirical submissions addressing issues including, but not limited to:
 
