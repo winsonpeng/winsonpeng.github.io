@@ -37,7 +37,8 @@ Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aip
 **Registration fee:** USD 50 per participant
 The registration fee will help cover preconference expenses, including refreshments and, subject to available funding, lunch.
 
-### Description
+<details>
+  <summary><strong>Overview</strong></summary>
   
 Generative AI (GenAI) is rapidly becoming part of the research infrastructure of communication research. Researchers are using large language models (LLMs) to code and interpret communication content, augment survey research, generate and personalize experimental stimuli, simulate communication processes, actors, and environments, and develop new forms of data collection and analysis. These developments offer substantial opportunities for methodological innovation. At the same time, they raise a more fundamental question:
 
@@ -48,6 +49,7 @@ Recent methodological work has highlighted the importance of this question. Dell
 These concerns are particularly consequential for communication research. High agreement between an AI system and human coders does not necessarily demonstrate that the system captures the intended theoretical construct. Realistic AI-generated survey responses may not establish measurement equivalence or population validity. Personalized experimental stimuli may introduce new questions about treatment validity, experimental control, and reproducibility. Generative agents may reproduce recognizable patterns of communication without reproducing the psychological, interpersonal, or social mechanisms that generate those patterns among humans.
 
 The preconference will bring together communication scholars, methodologists, computational researchers, and AI ethicists to examine how validation should be conceptualized, implemented, and reported as GenAI becomes increasingly integrated into communication research. The goal is not to establish a single universal validation standard. Rather, the preconference seeks to clarify what forms of validation evidence are needed for different research purposes, methods, populations, contexts, and levels of inference.
+</details>
 
 ### Topics of Interest
 
