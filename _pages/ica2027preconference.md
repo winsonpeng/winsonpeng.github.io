@@ -108,12 +108,12 @@ The preconference will bring together communication scholars, methodologists, co
 
 <p>Author information does <strong>NOT</strong> count toward the 500-word limit. </p>
 
-<p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. <br>
-Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research.</p>
-
 Please email your submission to: <a href="mailto:ica2027aiprecon@gmail.com"><strong>ica2027aiprecon@gmail.com</strong></a> <br>
 File format: PDF <br>
 File name: FirstAuthorFirstName_FirstAuthorLastName_2027.pdf <br>
+
+<p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. <br>
+Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research.</p>
 
 </details>
 
