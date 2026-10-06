@@ -97,7 +97,7 @@ The preconference will bring together communication scholars, methodologists, co
 
 <p>Extended abstracts should clearly describe: </p>
 - the research problem or methodological issue; <br>
-- the approach or argument advanced*; and <br>
+- the approach or argument advanced; and <br>
 - its relevance to the validation of GenAI-enabled methods in communication research. <br>
 
 <p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. </p>
