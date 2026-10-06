@@ -102,11 +102,11 @@ The preconference will bring together communication scholars, methodologists, co
 
 <p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. </p>
 
-<p>The submission must also include the following information for each author: </p>
+<p>The submission must also include the following information for each author: <br>
 - Full name <br>
 - Institutional affiliation <br>
 - Email address <br>
-- Indication of the presenting author(s) <br>
+- Indication of the presenting author(s) <br> </p>
 
 <p>Author information does <strong>NOT</strong> count toward the 500-word limit. </p>
 
