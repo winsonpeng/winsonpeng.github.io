@@ -108,7 +108,7 @@ The preconference will bring together communication scholars, methodologists, co
 - Email address <br>
 - Indication of the presenting author(s) <br>
 
-<p>Author information does **not** count toward the 500-word limit. </p>
+<p>Author information does <strong>NOT</strong> count toward the 500-word limit. </p>
 
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research. <br>
 
