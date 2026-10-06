@@ -95,12 +95,10 @@ The preconference will bring together communication scholars, methodologists, co
 
 <p>Participants should submit an <strong>extended abstract of no more than 500 words</strong>. The 500-word limit excludes references, tables, and figures. </p>
 
-<p>Extended abstracts should clearly describe: </p>
+<p>Extended abstracts should clearly describe: <br>
 - the research problem or methodological issue; <br>
 - the approach or argument advanced; and <br>
-- its relevance to the validation of GenAI-enabled methods in communication research. <br>
-
-<p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. </p>
+- its relevance to the validation of GenAI-enabled methods in communication research. <br></p>
 
 <p>The submission must also include the following information for each author: <br>
 - Full name <br>
@@ -110,7 +108,8 @@ The preconference will bring together communication scholars, methodologists, co
 
 <p>Author information does <strong>NOT</strong> count toward the 500-word limit. </p>
 
-Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research. <br>
+<p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. <br>
+Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research.</p>
 
 Please email your submission to: <a href="mailto:ica2027aiprecon@gmail.com"><strong>ica2027aiprecon@gmail.com</strong></a> <br>
 File format: PDF <br>
