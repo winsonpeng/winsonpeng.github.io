@@ -93,23 +93,30 @@ The preconference will bring together communication scholars, methodologists, co
 <details>
   <summary><strong>Submission Guideline</strong></summary>
 
-Participants should submit an **extended abstract of no more than 500 words**. The 500-word limit excludes references, tables, and figures. <br>
+<p>Participants should submit an **extended abstract of no more than 500 words**. The 500-word limit excludes references, tables, and figures. </p>
 
-Extended abstracts should clearly describe: *the research problem or methodological issue*; *the approach or argument advanced*; and *its relevance to the validation of GenAI-enabled methods in communication research*. Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. <br>
+<p>Extended abstracts should clearly describe</p>: 
+  - the research problem or methodological issue; 
+  - the approach or argument advanced*; and 
+  - its relevance to the validation of GenAI-enabled methods in communication research. 
 
-The submission must also include the following information for each author: <br>
+<p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. </p>
+
+<p>The submission must also include the following information for each author: </p>
 - Full name <br>
 - Institutional affiliation <br>
 - Email address <br>
 - Indication of the presenting author(s) <br>
 
-Author information does **not** count toward the 500-word limit. <br>
+<p>Author information does **not** count toward the 500-word limit. </p>
 
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research. <br>
 
-Please email your submission to: **[ica2027aiprecon@gmail.com](mailto:ica2027aiprecon@gmail.com)** <br>
-**File format:** PDF <br>
-**File name:** `FirstAuthorFirstName_FirstAuthorLastName_2027.pdf`<br>
+Please email your submission to:
+<a href="mailto:ica2027aiprecon@gmail.com"><strong>ica2027aiprecon@gmail.com</strong></a>
+File format: PDF <br>
+File name: FirstAuthorFirstName_FirstAuthorLastName_2027.pdf <br>
+
 </details>
 
 ### Important Dates
