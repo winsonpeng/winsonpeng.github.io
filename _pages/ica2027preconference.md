@@ -112,8 +112,7 @@ The preconference will bring together communication scholars, methodologists, co
 
 Submissions will be reviewed on the basis of their relevance to the preconference theme, conceptual or methodological contribution, clarity of argument, and potential to advance understanding of the reliable and valid use of GenAI in communication research. <br>
 
-Please email your submission to:
-<a href="mailto:ica2027aiprecon@gmail.com"><strong>ica2027aiprecon@gmail.com</strong></a>
+Please email your submission to: <a href="mailto:ica2027aiprecon@gmail.com"><strong>ica2027aiprecon@gmail.com</strong></a> <br>
 File format: PDF <br>
 File name: FirstAuthorFirstName_FirstAuthorLastName_2027.pdf <br>
 
