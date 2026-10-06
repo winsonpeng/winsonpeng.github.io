@@ -96,9 +96,9 @@ The preconference will bring together communication scholars, methodologists, co
 <p>Participants should submit an <strong>extended abstract of no more than 500 words</strong>. The 500-word limit excludes references, tables, and figures. </p>
 
 <p>Extended abstracts should clearly describe: </p>
-- the research problem or methodological issue; 
-- the approach or argument advanced*; and 
-- its relevance to the validation of GenAI-enabled methods in communication research. 
+- the research problem or methodological issue; <br>
+- the approach or argument advanced*; and <br>
+- its relevance to the validation of GenAI-enabled methods in communication research. <br>
 
 <p>Completed studies and well-developed works in progress are welcome, as are conceptual and methodological contributions. </p>
 
