@@ -118,8 +118,8 @@ File name: FirstAuthorFirstName_FirstAuthorLastName_2027.pdf </p>
 </details>
 
 ### Important Dates
-**Submission deadline:** January 15, 2027 <br>
-**Notification of acceptance:** February 14, 2027 <br>
+**Submission deadline:** January 15, 2027 (U.S. Eastern Time) <br>
+**Notification of acceptance:** February 14, 2027 (U.S. Eastern Time) <br>
 
 ### Registration
 **Registration fee:** USD 50 per participant. <br>
