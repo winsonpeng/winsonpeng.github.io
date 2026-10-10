@@ -122,7 +122,7 @@ File name: FirstAuthorFirstName_FirstAuthorLastName_2027.pdf </p>
 **Notification of acceptance:** February 14, 2027 <br>
 
 ### Registration
-**Registration fee:** USD 50 per participant
+**Registration fee:** USD 50 per participant. <br>
 The registration fee will help cover preconference expenses, including refreshments and, subject to available funding, lunch.
 
 
