@@ -25,6 +25,7 @@ author_profile: true
  
 
 ## Journal Articles
+0. Wedyan, M., Saeidi-Rizi, F., & Peng, T. Q. (in press). Modeling urban perceptions with large language models: A systematic review. *Cities*.
 0. Yin, J., Zheng, H., Zhou, B., Tian, Y., Ying, L., Peng, T. Q., Deng, D. Wu, Y., & Tang, T. (2027). PolarWeather: Visual Analysis of Polarization Dynamics in Multi-Platform Social Media. *IEEE Transactions on Visualization and Computer Graphics*.
 0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2027). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis. *IEEE Transactions on Visualization and Computer Graphics*. ([arXiv version](https://doi.org/10.48550/arXiv.2510.26172))
 0. Donohue, W., & Peng, T. Q. (2026). [Understanding polarizing language: Developing a coding instrument](https://doi.org/10.1177/0261927X261445987). *Journal of Language and Social Psychology*. 
