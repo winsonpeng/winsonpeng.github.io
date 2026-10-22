@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## Large Language Models and Social Science
+0. Wedyan, M., Saeidi-Rizi, F., & Peng, T. Q. (in press). Modeling urban perceptions with large language models: A systematic review. *Cities*.
 0. Chen, S., Deng, D., Xu, Z., Xu, S., Peng, T. Q., & Wu, Y. (2027). Linking Heterogeneous Data with Coordinated Agent Flows for Social Media Analysis. *IEEE Transactions on Visualization and Computer Graphics*. ([arXiv version](https://doi.org/10.48550/arXiv.2510.26172))
 0. Peng, T. Q., Tian, Y., Liang, S., Deng, D., & Wu, Y. (2026). Do LLM-Driven Agents Exhibit Engagement Mechanisms? Controlled Tests of Information Load, Descriptive Norms, and Popularity Cues (No. arXiv:2603.20911). arXiv. [https://doi.org/10.48550/arXiv.2603.20911](https://doi.org/10.48550/arXiv.2603.20911)
 0. Yang, K., Peng, T. Q., Lee, S., & Liu, H. (2026). Think-Before-Speak: From Internal Evaluation to Public Expression in Multi-Agent Social Simulation (arXiv:2606.03137). arXiv. [https://doi.org/10.48550/arXiv.2606.03137](https://doi.org/10.48550/arXiv.2606.03137)
